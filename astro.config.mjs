@@ -8,6 +8,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://feuscel.github.io/',
+  base: 'Pokeacademia-wiki',
   integrations: [mdx(), sitemap()],
 
   vite: {
