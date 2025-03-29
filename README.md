@@ -10,16 +10,12 @@ PokéStar Academy est un serveur **Minecraft Cobblemon** dédié à une expérie
 
 - 📜 **Règlement du serveur**
 - 🗺️ **Carte et lieux importants**
-- ⚔️ **Systèmes de combats et d'arènes**
-- 📦 **Économie et shops**
-- 🎭 **Événements et quêtes communautaires**
+- ⚔️ **Systèmes de combats de dresseurs**
 - 🚀 **Tutoriels et guides**
 
 ## 🎮 Rejoindre le serveur
 
-📌 **IP du serveur** : *(À compléter)*  
-📌 **Version Minecraft requise** : *(À compléter)*  
-📌 **Modpack** : *(À compléter)*
+- Rejoins le serveur [Discord](https://discord.com/invite/theofrnl) et demande l'executable
 
 ## 🤝 Contribuer au Wiki
 
@@ -35,14 +31,14 @@ Toutes les contributions sont les bienvenues pour enrichir la documentation du s
 
 Si vous aimez jouer sur **PokéStar Academy** et souhaitez aider à son développement, vous pouvez soutenir le serveur via **Tipeee** !
 
-🔗 **Soutenir sur Tipeee** : *(Ajouter le lien Tipeee ici)*
+🔗 **Soutenir sur Tipeee** : [Tipee](https://fr.tipeee.com/pokestar-academy)
 
 Chaque contribution aide à maintenir et améliorer l'expérience de jeu pour toute la communauté. Merci pour votre soutien !
 
 ## 📢 Communauté
 
-🔗 **Twitch de TheoFrnl** : [lien](https://www.twitch.tv/theofrnl)  
-🔗 **Discord du serveur** : [lien]((https://discord.com/invite/theofrnl))  
+🔗 **Twitch de TheoFrnl** : [Twitch](https://www.twitch.tv/theofrnl)  
+🔗 **Discord du serveur** : [Discord](https://discord.com/invite/theofrnl)
 🔗 **Site Web officiel** : [WikiPokéStar Academy](https://wikipokeacademia.feuscel.dev/)
 
 ---
