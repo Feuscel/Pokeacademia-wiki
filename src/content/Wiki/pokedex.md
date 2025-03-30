@@ -12,4999 +12,4999 @@ heroImage: '/pokedex.jpg'
         <td>Notes</td>
     </tr>
     <tr>
-        <td>1</td>
+        <td>0001</td>
         <td>Bulbizarre</td>
         <td>Bulbasaur</td>
         <td></td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>0002</td>
         <td>Herbizarre</td>
         <td>Ivysaur</td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>0003</td>
         <td>Florizarre</td>
         <td>Venusaur</td>
     </tr>
     <tr>
-        <td>4</td>
+        <td>0004</td>
         <td>Salameche</td>
         <td>Charmander</td>
     </tr>
     <tr>
-        <td>5</td>
+        <td>0005</td>
         <td>Reptincel</td>
         <td>Charmeleon</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>0006</td>
         <td>Dracaufeu</td>
         <td>Charizard</td>
     </tr>
     <tr>
-        <td>7</td>
+        <td>0007</td>
         <td>Carapuce</td>
         <td>Squirtle</td>
     </tr>
     <tr>
-        <td>8</td>
+        <td>0008</td>
         <td>Carabaffe</td>
         <td>Wartortle</td>
     </tr>
     <tr>
-        <td>9</td>
+        <td>0009</td>
         <td>Tortank</td>
         <td>Blastoise</td>
     </tr>
     <tr>
-        <td>10</td>
+        <td>0010</td>
         <td>Chenipan</td>
         <td>Caterpie</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>0011</td>
         <td>Chrysacier</td>
         <td>Metapod</td>
     </tr>
     <tr>
-        <td>12</td>
+        <td>0012</td>
         <td>Papilusion</td>
         <td>Butterfree</td>
     </tr>
     <tr>
-        <td>13</td>
+        <td>0013</td>
         <td>Aspicot</td>
         <td>Weedle</td>
     </tr>
     <tr>
-        <td>14</td>
+        <td>0014</td>
         <td>Coconfort</td>
         <td>Kakuna</td>
     </tr>
     <tr>
-        <td>15</td>
+        <td>0015</td>
         <td>Dardargnan</td>
         <td>Beedrill</td>
     </tr>
     <tr>
-        <td>16</td>
+        <td>0016</td>
         <td>Roucool</td>
         <td>Pidgey</td>
     </tr>
     <tr>
-        <td>17</td>
+        <td>0017</td>
         <td>Roucoups</td>
         <td>Pidgeotto</td>
     </tr>
     <tr>
-        <td>18</td>
+        <td>0018</td>
         <td>Roucarnage</td>
         <td>Pidgeot</td>
     </tr>
     <tr>
-        <td>19</td>
+        <td>0019</td>
         <td>Rattata</td>
         <td>Rattata</td>
     </tr>
     <tr>
-        <td>20</td>
+        <td>0020</td>
         <td>Rattatac</td>
         <td>Raticate</td>
     </tr>
     <tr>
-        <td>21</td>
+        <td>0021</td>
         <td>Piafabec</td>
         <td>Spearow</td>
     </tr>
     <tr>
-        <td>22</td>
+        <td>0022</td>
         <td>Rapasdepic</td>
         <td>Fearow</td>
     </tr>
     <tr>
-        <td>23</td>
+        <td>0023</td>
         <td>Abo</td>
         <td>Ekans</td>
     </tr>
     <tr>
-        <td>24</td>
+        <td>0024</td>
         <td>Arbok</td>
         <td>Arbok</td>
     </tr>
     <tr>
-        <td>25</td>
+        <td>0025</td>
         <td>Pikachu</td>
         <td>Pikachu</td>
     </tr>
     <tr>
-        <td>26</td>
+        <td>0026</td>
         <td>Raichu</td>
         <td>Raichu</td>
     </tr>
     <tr>
-        <td>27</td>
+        <td>0027</td>
         <td>Sabelette</td>
         <td>Sandshrew</td>
     </tr>
     <tr>
-        <td>28</td>
+        <td>0028</td>
         <td>Sablaireau</td>
         <td>Sandslash</td>
     </tr>
     <tr>
-        <td>29</td>
+        <td>0029</td>
         <td>Nidoran?</td>
         <td>Nidoran?</td>
     </tr>
     <tr>
-        <td>30</td>
+        <td>0030</td>
         <td>Nidorina</td>
         <td>Nidorina</td>
     </tr>
     <tr>
-        <td>31</td>
+        <td>0031</td>
         <td>Nidoqueen</td>
         <td>Nidoqueen</td>
     </tr>
     <tr>
-        <td>32</td>
+        <td>0032</td>
         <td>Nidoran?</td>
         <td>Nidoran?</td>
     </tr>
     <tr>
-        <td>33</td>
+        <td>0033</td>
         <td>Nidorino</td>
         <td>Nidorino</td>
     </tr>
     <tr>
-        <td>34</td>
+        <td>0034</td>
         <td>Nidoking</td>
         <td>Nidoking</td>
     </tr>
     <tr>
-        <td>35</td>
+        <td>0035</td>
         <td>Melofee</td>
         <td>Clefairy</td>
     </tr>
     <tr>
-        <td>36</td>
+        <td>0036</td>
         <td>Melodelfe</td>
         <td>Clefable</td>
     </tr>
     <tr>
-        <td>37</td>
+        <td>0037</td>
         <td>Goupix</td>
         <td>Vulpix</td>
     </tr>
     <tr>
-        <td>38</td>
+        <td>0038</td>
         <td>Feunard</td>
         <td>Ninetales</td>
     </tr>
     <tr>
-        <td>39</td>
+        <td>0039</td>
         <td>Rondoudou</td>
         <td>Jigglypuff</td>
     </tr>
     <tr>
-        <td>40</td>
+        <td>0040</td>
         <td>Grodoudou</td>
         <td>Wigglytuff</td>
     </tr>
     <tr>
-        <td>41</td>
+        <td>0041</td>
         <td>Nosferapti</td>
         <td>Zubat</td>
     </tr>
     <tr>
-        <td>42</td>
+        <td>0042</td>
         <td>Nosferalto</td>
         <td>Golbat</td>
     </tr>
     <tr>
-        <td>43</td>
+        <td>0043</td>
         <td>Mystherbe</td>
         <td>Oddish</td>
     </tr>
     <tr>
-        <td>44</td>
+        <td>0044</td>
         <td>Ortide</td>
         <td>Gloom</td>
     </tr>
     <tr>
-        <td>45</td>
+        <td>0045</td>
         <td>Rafflesia</td>
         <td>Vileplume</td>
     </tr>
     <tr>
-        <td>46</td>
+        <td>0046</td>
         <td>Paras</td>
         <td>Paras</td>
     </tr>
     <tr>
-        <td>47</td>
+        <td>0047</td>
         <td>Parasect</td>
         <td>Parasect</td>
     </tr>
     <tr>
-        <td>48</td>
+        <td>0048</td>
         <td>Mimitoss</td>
         <td>Venonat</td>
     </tr>
     <tr>
-        <td>49</td>
+        <td>0049</td>
         <td>Aeromite</td>
         <td>Venomoth</td>
     </tr>
     <tr>
-        <td>50</td>
+        <td>0050</td>
         <td>Taupiqueur</td>
         <td>Diglett</td>
     </tr>
     <tr>
-        <td>51</td>
+        <td>0051</td>
         <td>Triopikeur</td>
         <td>Dugtrio</td>
     </tr>
     <tr>
-        <td>52</td>
+        <td>0052</td>
         <td>Miaouss</td>
         <td>Meowth</td>
     </tr>
     <tr>
-        <td>53</td>
+        <td>0053</td>
         <td>Persian</td>
         <td>Persian</td>
     </tr>
     <tr>
-        <td>54</td>
+        <td>0054</td>
         <td>Psykokwak</td>
         <td>Psyduck</td>
     </tr>
     <tr>
-        <td>55</td>
+        <td>0055</td>
         <td>Akwakwak</td>
         <td>Golduck</td>
     </tr>
     <tr>
-        <td>56</td>
+        <td>0056</td>
         <td>Ferosinge</td>
         <td>Mankey</td>
     </tr>
     <tr>
-        <td>57</td>
+        <td>0057</td>
         <td>Colossinge</td>
         <td>Primeape</td>
     </tr>
     <tr>
-        <td>58</td>
+        <td>0058</td>
         <td>Caninos</td>
         <td>Growlithe</td>
     </tr>
     <tr>
-        <td>59</td>
+        <td>0059</td>
         <td>Arcanin</td>
         <td>Arcanine</td>
     </tr>
     <tr>
-        <td>60</td>
+        <td>0060</td>
         <td>Ptitard</td>
         <td>Poliwag</td>
     </tr>
     <tr>
-        <td>61</td>
+        <td>0061</td>
         <td>Tetarte</td>
         <td>Poliwhirl</td>
     </tr>
     <tr>
-        <td>62</td>
+        <td>0062</td>
         <td>Tartard</td>
         <td>Poliwrath</td>
     </tr>
     <tr>
-        <td>63</td>
+        <td>0063</td>
         <td>Abra</td>
         <td>Abra</td>
     </tr>
     <tr>
-        <td>64</td>
+        <td>0064</td>
         <td>Kadabra</td>
         <td>Kadabra</td>
     </tr>
     <tr>
-        <td>65</td>
+        <td>0065</td>
         <td>Alakazam</td>
         <td>Alakazam</td>
     </tr>
     <tr>
-        <td>66</td>
+        <td>0066</td>
         <td>Machoc</td>
         <td>Machop</td>
     </tr>
     <tr>
-        <td>67</td>
+        <td>0067</td>
         <td>Machopeur</td>
         <td>Machoke</td>
     </tr>
     <tr>
-        <td>68</td>
+        <td>0068</td>
         <td>Mackogneur</td>
         <td>Machamp</td>
     </tr>
     <tr>
-        <td>69</td>
+        <td>0069</td>
         <td>Chetiflor</td>
         <td>Bellsprout</td>
     </tr>
     <tr>
-        <td>70</td>
+        <td>0070</td>
         <td>Boustiflor</td>
         <td>Weepinbell</td>
     </tr>
     <tr>
-        <td>71</td>
+        <td>0071</td>
         <td>Empiflor</td>
         <td>Victreebel</td>
     </tr>
     <tr>
-        <td>72</td>
+        <td>0072</td>
         <td>Tentacool</td>
         <td>Tentacool</td>
     </tr>
     <tr>
-        <td>73</td>
+        <td>0073</td>
         <td>Tentacruel</td>
         <td>Tentacruel</td>
     </tr>
     <tr>
-        <td>74</td>
+        <td>0074</td>
         <td>Racaillou</td>
         <td>Geodude</td>
     </tr>
     <tr>
-        <td>75</td>
+        <td>0075</td>
         <td>Gravalanch</td>
         <td>Graveler</td>
     </tr>
     <tr>
-        <td>76</td>
+        <td>0076</td>
         <td>Grolem</td>
         <td>Golem</td>
     </tr>
     <tr>
-        <td>77</td>
+        <td>0077</td>
         <td>Ponyta</td>
         <td>Ponyta</td>
     </tr>
     <tr>
-        <td>78</td>
+        <td>0078</td>
         <td>Galopa</td>
         <td>Rapidash</td>
     </tr>
     <tr>
-        <td>79</td>
+        <td>0079</td>
         <td>Ramoloss</td>
         <td>Slowpoke</td>
     </tr>
     <tr>
-        <td>80</td>
+        <td>0080</td>
         <td>Flagadoss</td>
         <td>Slowbro</td>
     </tr>
     <tr>
-        <td>81</td>
+        <td>0081</td>
         <td>Magneti</td>
         <td>Magnemite</td>
     </tr>
     <tr>
-        <td>82</td>
+        <td>0082</td>
         <td>Magneton</td>
         <td>Magneton</td>
     </tr>
     <tr>
-        <td>83</td>
+        <td>0083</td>
         <td>Canarticho</td>
         <td>Farfetch&#39;d</td>
     </tr>
     <tr>
-        <td>84</td>
+        <td>0084</td>
         <td>Doduo</td>
         <td>Doduo</td>
     </tr>
     <tr>
-        <td>85</td>
+        <td>0085</td>
         <td>Dodrio</td>
         <td>Dodrio</td>
     </tr>
     <tr>
-        <td>86</td>
+        <td>0086</td>
         <td>Otaria</td>
         <td>Seel</td>
     </tr>
     <tr>
-        <td>87</td>
+        <td>0087</td>
         <td>Lamantine</td>
         <td>Dewgong</td>
     </tr>
     <tr>
-        <td>88</td>
+        <td>0088</td>
         <td>Tadmorv</td>
         <td>Grimer</td>
     </tr>
     <tr>
-        <td>89</td>
+        <td>0089</td>
         <td>Grotadmorv</td>
         <td>Muk</td>
     </tr>
     <tr>
-        <td>90</td>
+        <td>0090</td>
         <td>Kokiyas</td>
         <td>Shellder</td>
     </tr>
     <tr>
-        <td>91</td>
+        <td>0091</td>
         <td>Crustabri</td>
         <td>Cloyster</td>
     </tr>
     <tr>
-        <td>92</td>
+        <td>0092</td>
         <td>Fantominus</td>
         <td>Gastly</td>
         <td>larmes de ghast</td>
     </tr>
     <tr>
-        <td>93</td>
+        <td>0093</td>
         <td>Spectrum</td>
         <td>Haunter</td>
     </tr>
     <tr>
-        <td>94</td>
+        <td>0094</td>
         <td>Ectoplasma</td>
         <td>Gengar</td>
     </tr>
     <tr>
-        <td>95</td>
+        <td>0095</td>
         <td>Onix</td>
         <td>Onix</td>
     </tr>
     <tr>
-        <td>96</td>
+        <td>0096</td>
         <td>Soporifik</td>
         <td>Drowzee</td>
     </tr>
     <tr>
-        <td>97</td>
+        <td>0097</td>
         <td>Hypnomade</td>
         <td>Hypno</td>
     </tr>
     <tr>
-        <td>98</td>
+        <td>0098</td>
         <td>Krabby</td>
         <td>Krabby</td>
     </tr>
     <tr>
-        <td>99</td>
+        <td>0099</td>
         <td>Krabboss</td>
         <td>Kingler</td>
     </tr>
     <tr>
-        <td>100</td>
+        <td>0100</td>
         <td>Voltorbe</td>
         <td>Voltorb</td>
     </tr>
     <tr>
-        <td>101</td>
+        <td>0101</td>
         <td>electrode</td>
         <td>Electrode</td>
     </tr>
     <tr>
-        <td>102</td>
+        <td>0102</td>
         <td>Noeunoeuf</td>
         <td>Exeggcute</td>
     </tr>
     <tr>
-        <td>103</td>
+        <td>0103</td>
         <td>Noadkoko</td>
         <td>Exeggutor</td>
     </tr>
     <tr>
-        <td>104</td>
+        <td>0104</td>
         <td>Osselait</td>
         <td>Cubone</td>
     </tr>
     <tr>
-        <td>105</td>
+        <td>0105</td>
         <td>Ossatueur</td>
         <td>Marowak</td>
     </tr>
     <tr>
-        <td>106</td>
+        <td>0106</td>
         <td>Kicklee</td>
         <td>Hitmonlee</td>
     </tr>
     <tr>
-        <td>107</td>
+        <td>0107</td>
         <td>Tygnon</td>
         <td>Hitmonchan</td>
     </tr>
     <tr>
-        <td>108</td>
+        <td>0108</td>
         <td>Excelangue</td>
         <td>Lickitung</td>
     </tr>
     <tr>
-        <td>109</td>
+        <td>0109</td>
         <td>Smogo</td>
         <td>Koffing</td>
     </tr>
     <tr>
-        <td>110</td>
+        <td>0110</td>
         <td>Smogogo</td>
         <td>Weezing</td>
     </tr>
     <tr>
-        <td>111</td>
+        <td>0111</td>
         <td>Rhinocorne</td>
         <td>Rhyhorn</td>
     </tr>
     <tr>
-        <td>112</td>
+        <td>0112</td>
         <td>Rhinoferos</td>
         <td>Rhydon</td>
     </tr>
     <tr>
-        <td>113</td>
+        <td>0113</td>
         <td>Leveinard</td>
         <td>Chansey</td>
     </tr>
     <tr>
-        <td>114</td>
+        <td>0114</td>
         <td>Saquedeneu</td>
         <td>Tangela</td>
     </tr>
     <tr>
-        <td>115</td>
+        <td>0115</td>
         <td>Kangourex</td>
         <td>Kangaskhan</td>
     </tr>
     <tr>
-        <td>116</td>
+        <td>0116</td>
         <td>Hypotrempe</td>
         <td>Horsea</td>
     </tr>
     <tr>
-        <td>117</td>
+        <td>0117</td>
         <td>Hypocean</td>
         <td>Seadra</td>
     </tr>
     <tr>
-        <td>118</td>
+        <td>0118</td>
         <td>Poissirene</td>
         <td>Goldeen</td>
     </tr>
     <tr>
-        <td>119</td>
+        <td>0119</td>
         <td>Poissoroy</td>
         <td>Seaking</td>
     </tr>
     <tr>
-        <td>120</td>
+        <td>0120</td>
         <td>Stari</td>
         <td>Staryu</td>
     </tr>
     <tr>
-        <td>121</td>
+        <td>0121</td>
         <td>Staross</td>
         <td>Starmie</td>
     </tr>
     <tr>
-        <td>122</td>
+        <td>0122</td>
         <td>M. Mime</td>
         <td>Mr. Mime</td>
     </tr>
     <tr>
-        <td>123</td>
+        <td>0123</td>
         <td>Insecateur</td>
         <td>Scyther</td>
     </tr>
     <tr>
-        <td>124</td>
+        <td>0124</td>
         <td>Lippoutou</td>
         <td>Jynx</td>
     </tr>
     <tr>
-        <td>125</td>
+        <td>0125</td>
         <td>elektek</td>
         <td>Electabuzz</td>
     </tr>
     <tr>
-        <td>126</td>
+        <td>0126</td>
         <td>Magmar</td>
         <td>Magmar</td>
     </tr>
     <tr>
-        <td>127</td>
+        <td>0127</td>
         <td>Scarabrute</td>
         <td>Pinsir</td>
     </tr>
     <tr>
-        <td>128</td>
+        <td>0128</td>
         <td>Tauros</td>
         <td>Tauros</td>
     </tr>
     <tr>
-        <td>129</td>
+        <td>0129</td>
         <td>Magicarpe</td>
         <td>Magikarp</td>
     </tr>
     <tr>
-        <td>130</td>
+        <td>0130</td>
         <td>Leviator</td>
         <td>Gyarados</td>
     </tr>
     <tr>
-        <td>131</td>
+        <td>0131</td>
         <td>Lokhlass</td>
         <td>Lapras</td>
     </tr>
     <tr>
-        <td>132</td>
+        <td>0132</td>
         <td>Metamorph</td>
         <td>Ditto</td>
     </tr>
     <tr>
-        <td>133</td>
+        <td>0133</td>
         <td>evoli</td>
         <td>Eevee</td>
     </tr>
     <tr>
-        <td>134</td>
+        <td>0134</td>
         <td>Aquali</td>
         <td>Vaporeon</td>
     </tr>
     <tr>
-        <td>135</td>
+        <td>0135</td>
         <td>Voltali</td>
         <td>Jolteon</td>
     </tr>
     <tr>
-        <td>136</td>
+        <td>0136</td>
         <td>Pyroli</td>
         <td>Flareon</td>
     </tr>
     <tr>
-        <td>137</td>
+        <td>0137</td>
         <td>Porygon</td>
         <td>Porygon</td>
     </tr>
     <tr>
-        <td>138</td>
+        <td>0138</td>
         <td>Amonita</td>
         <td>Omanyte</td>
     </tr>
     <tr>
-        <td>139</td>
+        <td>0139</td>
         <td>Amonistar</td>
         <td>Omastar</td>
     </tr>
     <tr>
-        <td>140</td>
+        <td>0140</td>
         <td>Kabuto</td>
         <td>Kabuto</td>
     </tr>
     <tr>
-        <td>141</td>
+        <td>0141</td>
         <td>Kabutops</td>
         <td>Kabutops</td>
     </tr>
     <tr>
-        <td>142</td>
+        <td>0142</td>
         <td>Ptera</td>
         <td>Aerodactyl</td>
     </tr>
     <tr>
-        <td>143</td>
+        <td>0143</td>
         <td>Ronflex</td>
         <td>Snorlax</td>
     </tr>
     <tr>
-        <td>144</td>
+        <td>0144</td>
         <td>Artikodin</td>
         <td>Articuno</td>
     </tr>
     <tr>
-        <td>145</td>
+        <td>0145</td>
         <td>electhor</td>
         <td>Zapdos</td>
     </tr>
     <tr>
-        <td>146</td>
+        <td>0146</td>
         <td>Sulfura</td>
         <td>Moltres</td>
     </tr>
     <tr>
-        <td>147</td>
+        <td>0147</td>
         <td>Minidraco</td>
         <td>Dratini</td>
     </tr>
     <tr>
-        <td>148</td>
+        <td>0148</td>
         <td>Draco</td>
         <td>Dragonair</td>
     </tr>
     <tr>
-        <td>149</td>
+        <td>0149</td>
         <td>Dracolosse</td>
         <td>Dragonite</td>
     </tr>
     <tr>
-        <td>150</td>
+        <td>0150</td>
         <td>Mewtwo</td>
         <td>Mewtwo</td>
     </tr>
     <tr>
-        <td>151</td>
+        <td>0151</td>
         <td>Mew</td>
         <td>Mew</td>
     </tr>
     <tr>
-        <td>152</td>
+        <td>0152</td>
         <td>Germignon</td>
         <td>Chikorita</td>
     </tr>
     <tr>
-        <td>153</td>
+        <td>0153</td>
         <td>Macronium</td>
         <td>Bayleef</td>
     </tr>
     <tr>
-        <td>154</td>
+        <td>0154</td>
         <td>Meganium</td>
         <td>Meganium</td>
     </tr>
     <tr>
-        <td>155</td>
+        <td>0155</td>
         <td>Hericendre</td>
         <td>Cyndaquil</td>
     </tr>
     <tr>
-        <td>156</td>
+        <td>0156</td>
         <td>Feurisson</td>
         <td>Quilava</td>
     </tr>
     <tr>
-        <td>157</td>
+        <td>0157</td>
         <td>Typhlosion</td>
         <td>Typhlosion</td>
     </tr>
     <tr>
-        <td>158</td>
+        <td>0158</td>
         <td>Kaiminus</td>
         <td>Totodile</td>
     </tr>
     <tr>
-        <td>159</td>
+        <td>0159</td>
         <td>Crocrodil</td>
         <td>Croconaw</td>
     </tr>
     <tr>
-        <td>160</td>
+        <td>0160</td>
         <td>Aligatueur</td>
         <td>Feraligatr</td>
     </tr>
     <tr>
-        <td>161</td>
+        <td>0161</td>
         <td>Fouinette</td>
         <td>Sentret</td>
     </tr>
     <tr>
-        <td>162</td>
+        <td>0162</td>
         <td>Fouinar</td>
         <td>Furret</td>
     </tr>
     <tr>
-        <td>163</td>
+        <td>0163</td>
         <td>Hoothoot</td>
         <td>Hoothoot</td>
     </tr>
     <tr>
-        <td>164</td>
+        <td>0164</td>
         <td>Noarfang</td>
         <td>Noctowl</td>
     </tr>
     <tr>
-        <td>165</td>
+        <td>0165</td>
         <td>Coxy</td>
         <td>Ledyba</td>
     </tr>
     <tr>
-        <td>166</td>
+        <td>0166</td>
         <td>Coxyclaque</td>
         <td>Ledian</td>
     </tr>
     <tr>
-        <td>167</td>
+        <td>0167</td>
         <td>Mimigal</td>
         <td>Spinarak</td>
     </tr>
     <tr>
-        <td>168</td>
+        <td>0168</td>
         <td>Migalos</td>
         <td>Ariados</td>
     </tr>
     <tr>
-        <td>169</td>
+        <td>0169</td>
         <td>Nostenfer</td>
         <td>Crobat</td>
     </tr>
     <tr>
-        <td>170</td>
+        <td>0170</td>
         <td>Loupio</td>
         <td>Chinchou</td>
     </tr>
     <tr>
-        <td>171</td>
+        <td>0171</td>
         <td>Lanturn</td>
         <td>Lanturn</td>
     </tr>
     <tr>
-        <td>172</td>
+        <td>0172</td>
         <td>Pichu</td>
         <td>Pichu</td>
     </tr>
     <tr>
-        <td>173</td>
+        <td>0173</td>
         <td>Melo</td>
         <td>Cleffa</td>
     </tr>
     <tr>
-        <td>174</td>
+        <td>0174</td>
         <td>Toudoudou</td>
         <td>Igglybuff</td>
     </tr>
     <tr>
-        <td>175</td>
+        <td>0175</td>
         <td>Togepi</td>
         <td>Togepi</td>
     </tr>
     <tr>
-        <td>176</td>
+        <td>0176</td>
         <td>Togetic</td>
         <td>Togetic</td>
     </tr>
     <tr>
-        <td>177</td>
+        <td>0177</td>
         <td>Natu</td>
         <td>Natu</td>
     </tr>
     <tr>
-        <td>178</td>
+        <td>0178</td>
         <td>Xatu</td>
         <td>Xatu</td>
     </tr>
     <tr>
-        <td>179</td>
+        <td>0179</td>
         <td>Wattouat</td>
         <td>Mareep</td>
     </tr>
     <tr>
-        <td>180</td>
+        <td>0180</td>
         <td>Lainergie</td>
         <td>Flaaffy</td>
     </tr>
     <tr>
-        <td>181</td>
+        <td>0181</td>
         <td>Pharamp</td>
         <td>Ampharos</td>
     </tr>
     <tr>
-        <td>182</td>
+        <td>0182</td>
         <td>Joliflor</td>
         <td>Bellossom</td>
     </tr>
     <tr>
-        <td>183</td>
+        <td>0183</td>
         <td>Marill</td>
         <td>Marill</td>
     </tr>
     <tr>
-        <td>184</td>
+        <td>0184</td>
         <td>Azumarill</td>
         <td>Azumarill</td>
     </tr>
     <tr>
-        <td>185</td>
+        <td>0185</td>
         <td>Simularbre</td>
         <td>Sudowoodo</td>
     </tr>
     <tr>
-        <td>186</td>
+        <td>0186</td>
         <td>Tarpaud</td>
         <td>Politoed</td>
     </tr>
     <tr>
-        <td>187</td>
+        <td>0187</td>
         <td>Granivol</td>
         <td>Hoppip</td>
     </tr>
     <tr>
-        <td>188</td>
+        <td>0188</td>
         <td>Floravol</td>
         <td>Skiploom</td>
     </tr>
     <tr>
-        <td>189</td>
+        <td>0189</td>
         <td>Cotovol</td>
         <td>Jumpluff</td>
     </tr>
     <tr>
-        <td>190</td>
+        <td>0190</td>
         <td>Capumain</td>
         <td>Aipom</td>
     </tr>
     <tr>
-        <td>191</td>
+        <td>0191</td>
         <td>Tournegrin</td>
         <td>Sunkern</td>
     </tr>
     <tr>
-        <td>192</td>
+        <td>0192</td>
         <td>Heliatronc</td>
         <td>Sunflora</td>
     </tr>
     <tr>
-        <td>193</td>
+        <td>0193</td>
         <td>Yanma</td>
         <td>Yanma</td>
     </tr>
     <tr>
-        <td>194</td>
+        <td>0194</td>
         <td>Axoloto</td>
         <td>Wooper</td>
     </tr>
     <tr>
-        <td>195</td>
+        <td>0195</td>
         <td>Maraiste</td>
         <td>Quagsire</td>
     </tr>
     <tr>
-        <td>196</td>
+        <td>0196</td>
         <td>Mentali</td>
         <td>Espeon</td>
     </tr>
     <tr>
-        <td>197</td>
+        <td>0197</td>
         <td>Noctali</td>
         <td>Umbreon</td>
     </tr>
     <tr>
-        <td>198</td>
+        <td>0198</td>
         <td>Cornebre</td>
         <td>Murkrow</td>
     </tr>
     <tr>
-        <td>199</td>
+        <td>0199</td>
         <td>Roigada</td>
         <td>Slowking</td>
     </tr>
     <tr>
-        <td>200</td>
+        <td>0200</td>
         <td>Feuforeve</td>
         <td>Misdreavus</td>
     </tr>
     <tr>
-        <td>201</td>
+        <td>0201</td>
         <td>Zarbi</td>
         <td>Unown</td>
     </tr>
     <tr>
-        <td>202</td>
+        <td>0202</td>
         <td>Qulbutoke</td>
         <td>Wobbuffet</td>
     </tr>
     <tr>
-        <td>203</td>
+        <td>0203</td>
         <td>Girafarig</td>
         <td>Girafarig</td>
     </tr>
     <tr>
-        <td>204</td>
+        <td>0204</td>
         <td>Pomdepik</td>
         <td>Pineco</td>
     </tr>
     <tr>
-        <td>205</td>
+        <td>0205</td>
         <td>Foretress</td>
         <td>Forretress</td>
     </tr>
     <tr>
-        <td>206</td>
+        <td>0206</td>
         <td>Insolourdo</td>
         <td>Dunsparce</td>
     </tr>
     <tr>
-        <td>207</td>
+        <td>0207</td>
         <td>Scorplane</td>
         <td>Gligar</td>
     </tr>
     <tr>
-        <td>208</td>
+        <td>0208</td>
         <td>Steelix</td>
         <td>Steelix</td>
     </tr>
     <tr>
-        <td>209</td>
+        <td>0209</td>
         <td>Snubbull</td>
         <td>Snubbull</td>
     </tr>
     <tr>
-        <td>210</td>
+        <td>0210</td>
         <td>Granbull</td>
         <td>Granbull</td>
     </tr>
     <tr>
-        <td>211</td>
+        <td>0211</td>
         <td>Qwilfish</td>
         <td>Qwilfish</td>
     </tr>
     <tr>
-        <td>212</td>
+        <td>0212</td>
         <td>Cizayox</td>
         <td>Scizor</td>
     </tr>
     <tr>
-        <td>213</td>
+        <td>0213</td>
         <td>Caratroc</td>
         <td>Shuckle</td>
     </tr>
     <tr>
-        <td>214</td>
+        <td>0214</td>
         <td>Scarhino</td>
         <td>Heracross</td>
     </tr>
     <tr>
-        <td>215</td>
+        <td>0215</td>
         <td>Farfuret</td>
         <td>Sneasel</td>
     </tr>
     <tr>
-        <td>216</td>
+        <td>0216</td>
         <td>Teddiursa</td>
         <td>Teddiursa</td>
     </tr>
     <tr>
-        <td>217</td>
+        <td>0217</td>
         <td>Ursaring</td>
         <td>Ursaring</td>
     </tr>
     <tr>
-        <td>218</td>
+        <td>0218</td>
         <td>Limagma</td>
         <td>Slugma</td>
     </tr>
     <tr>
-        <td>219</td>
+        <td>0219</td>
         <td>Volcaropod</td>
         <td>Magcargo</td>
     </tr>
     <tr>
-        <td>220</td>
+        <td>0220</td>
         <td>Marcacrin</td>
         <td>Swinub</td>
     </tr>
     <tr>
-        <td>221</td>
+        <td>0221</td>
         <td>Cochignon</td>
         <td>Piloswine</td>
     </tr>
     <tr>
-        <td>222</td>
+        <td>0222</td>
         <td>Corayon</td>
         <td>Corsola</td>
     </tr>
     <tr>
-        <td>223</td>
+        <td>0223</td>
         <td>Remoraid</td>
         <td>Remoraid</td>
     </tr>
     <tr>
-        <td>224</td>
+        <td>0224</td>
         <td>Octillery</td>
         <td>Octillery</td>
     </tr>
     <tr>
-        <td>225</td>
+        <td>0225</td>
         <td>Cadoizo</td>
         <td>Delibird</td>
     </tr>
     <tr>
-        <td>226</td>
+        <td>0226</td>
         <td>Demanta</td>
         <td>Mantine</td>
     </tr>
     <tr>
-        <td>227</td>
+        <td>0227</td>
         <td>Airmure</td>
         <td>Skarmory</td>
     </tr>
     <tr>
-        <td>228</td>
+        <td>0228</td>
         <td>Malosse</td>
         <td>Houndour</td>
     </tr>
     <tr>
-        <td>229</td>
+        <td>0229</td>
         <td>Demolosse</td>
         <td>Houndoom</td>
     </tr>
     <tr>
-        <td>230</td>
+        <td>0230</td>
         <td>Hyporoi</td>
         <td>Kingdra</td>
     </tr>
     <tr>
-        <td>231</td>
+        <td>0231</td>
         <td>Phanpy</td>
         <td>Phanpy</td>
     </tr>
     <tr>
-        <td>232</td>
+        <td>0232</td>
         <td>Donphan</td>
         <td>Donphan</td>
     </tr>
     <tr>
-        <td>233</td>
+        <td>0233</td>
         <td>Porygon2</td>
         <td>Porygon2</td>
     </tr>
     <tr>
-        <td>234</td>
+        <td>0234</td>
         <td>Cerfrousse</td>
         <td>Stantler</td>
     </tr>
     <tr>
-        <td>235</td>
+        <td>0235</td>
         <td>Queulorior</td>
         <td>Smeargle</td>
     </tr>
     <tr>
-        <td>236</td>
+        <td>0236</td>
         <td>Debugant</td>
         <td>Tyrogue</td>
     </tr>
     <tr>
-        <td>237</td>
+        <td>0237</td>
         <td>Kapoera</td>
         <td>Hitmontop</td>
     </tr>
     <tr>
-        <td>238</td>
+        <td>0238</td>
         <td>Lippouti</td>
         <td>Smoochum</td>
     </tr>
     <tr>
-        <td>239</td>
+        <td>0239</td>
         <td>elekid</td>
         <td>Elekid</td>
     </tr>
     <tr>
-        <td>240</td>
+        <td>0240</td>
         <td>Magby</td>
         <td>Magby</td>
     </tr>
     <tr>
-        <td>241</td>
+        <td>0241</td>
         <td>ecremeuh</td>
         <td>Miltank</td>
     </tr>
     <tr>
-        <td>242</td>
+        <td>0242</td>
         <td>Leuphorie</td>
         <td>Blissey</td>
     </tr>
     <tr>
-        <td>243</td>
+        <td>0243</td>
         <td>Raikou</td>
         <td>Raikou</td>
     </tr>
     <tr>
-        <td>244</td>
+        <td>0244</td>
         <td>Entei</td>
         <td>Entei</td>
     </tr>
     <tr>
-        <td>245</td>
+        <td>0245</td>
         <td>Suicune</td>
         <td>Suicune</td>
     </tr>
     <tr>
-        <td>246</td>
+        <td>0246</td>
         <td>Embrylex</td>
         <td>Larvitar</td>
     </tr>
     <tr>
-        <td>247</td>
+        <td>0247</td>
         <td>Ymphect</td>
         <td>Pupitar</td>
     </tr>
     <tr>
-        <td>248</td>
+        <td>0248</td>
         <td>Tyranocif</td>
         <td>Tyranitar</td>
     </tr>
     <tr>
-        <td>249</td>
+        <td>0249</td>
         <td>Lugia</td>
         <td>Lugia</td>
     </tr>
     <tr>
-        <td>250</td>
+        <td>0250</td>
         <td>Ho-Oh</td>
         <td>Ho-Oh</td>
     </tr>
     <tr>
-        <td>251</td>
+        <td>0251</td>
         <td>Celebi</td>
         <td>Celebi</td>
     </tr>
     <tr>
-        <td>252</td>
+        <td>0252</td>
         <td>Arcko</td>
         <td>Treecko</td>
     </tr>
     <tr>
-        <td>253</td>
+        <td>0253</td>
         <td>Massko</td>
         <td>Grovyle</td>
     </tr>
     <tr>
-        <td>254</td>
+        <td>0254</td>
         <td>Jungko</td>
         <td>Sceptile</td>
     </tr>
     <tr>
-        <td>255</td>
+        <td>0255</td>
         <td>Poussifeu</td>
         <td>Torchic</td>
     </tr>
     <tr>
-        <td>256</td>
+        <td>0256</td>
         <td>Galifeu</td>
         <td>Combusken</td>
     </tr>
     <tr>
-        <td>257</td>
+        <td>0257</td>
         <td>Brasegali</td>
         <td>Blaziken</td>
     </tr>
     <tr>
-        <td>258</td>
+        <td>0258</td>
         <td>Gobou</td>
         <td>Mudkip</td>
     </tr>
     <tr>
-        <td>259</td>
+        <td>0259</td>
         <td>Flobio</td>
         <td>Marshtomp</td>
     </tr>
     <tr>
-        <td>260</td>
+        <td>0260</td>
         <td>Laggron</td>
         <td>Swampert</td>
     </tr>
     <tr>
-        <td>261</td>
+        <td>0261</td>
         <td>Medhyena</td>
         <td>Poochyena</td>
     </tr>
     <tr>
-        <td>262</td>
+        <td>0262</td>
         <td>Grahyena</td>
         <td>Mightyena</td>
     </tr>
     <tr>
-        <td>263</td>
+        <td>0263</td>
         <td>Zigzaton</td>
         <td>Zigzagoon</td>
     </tr>
     <tr>
-        <td>264</td>
+        <td>0264</td>
         <td>Lineon</td>
         <td>Linoone</td>
     </tr>
     <tr>
-        <td>265</td>
+        <td>0265</td>
         <td>Chenipotte</td>
         <td>Wurmple</td>
     </tr>
     <tr>
-        <td>266</td>
+        <td>0266</td>
         <td>Armulys</td>
         <td>Silcoon</td>
     </tr>
     <tr>
-        <td>267</td>
+        <td>0267</td>
         <td>Charmillon</td>
         <td>Beautifly</td>
     </tr>
     <tr>
-        <td>268</td>
+        <td>0268</td>
         <td>Blindalys</td>
         <td>Cascoon</td>
     </tr>
     <tr>
-        <td>269</td>
+        <td>0269</td>
         <td>Papinox</td>
         <td>Dustox</td>
     </tr>
     <tr>
-        <td>270</td>
+        <td>0270</td>
         <td>Nenupiot</td>
         <td>Lotad</td>
     </tr>
     <tr>
-        <td>271</td>
+        <td>0271</td>
         <td>Lombre</td>
         <td>Lombre</td>
     </tr>
     <tr>
-        <td>272</td>
+        <td>0272</td>
         <td>Ludicolo</td>
         <td>Ludicolo</td>
     </tr>
     <tr>
-        <td>273</td>
+        <td>0273</td>
         <td>Grainipiot</td>
         <td>Seedot</td>
     </tr>
     <tr>
-        <td>274</td>
+        <td>0274</td>
         <td>Pifeuil</td>
         <td>Nuzleaf</td>
     </tr>
     <tr>
-        <td>275</td>
+        <td>0275</td>
         <td>Tengalice</td>
         <td>Shiftry</td>
     </tr>
     <tr>
-        <td>276</td>
+        <td>0276</td>
         <td>Nirondelle</td>
         <td>Taillow</td>
     </tr>
     <tr>
-        <td>277</td>
+        <td>0277</td>
         <td>Heledelle</td>
         <td>Swellow</td>
     </tr>
     <tr>
-        <td>278</td>
+        <td>0278</td>
         <td>Goelise</td>
         <td>Wingull</td>
     </tr>
     <tr>
-        <td>279</td>
+        <td>0279</td>
         <td>Bekipan</td>
         <td>Pelipper</td>
     </tr>
     <tr>
-        <td>280</td>
+        <td>0280</td>
         <td>Tarsal</td>
         <td>Ralts</td>
     </tr>
     <tr>
-        <td>281</td>
+        <td>0281</td>
         <td>Kirlia</td>
         <td>Kirlia</td>
     </tr>
     <tr>
-        <td>282</td>
+        <td>0282</td>
         <td>Gardevoir</td>
         <td>Gardevoir</td>
     </tr>
     <tr>
-        <td>283</td>
+        <td>0283</td>
         <td>Arakdo</td>
         <td>Surskit</td>
     </tr>
     <tr>
-        <td>284</td>
+        <td>0284</td>
         <td>Maskadra</td>
         <td>Masquerain</td>
     </tr>
     <tr>
-        <td>285</td>
+        <td>0285</td>
         <td>Balignon</td>
         <td>Shroomish</td>
     </tr>
     <tr>
-        <td>286</td>
+        <td>0286</td>
         <td>Chapignon</td>
         <td>Breloom</td>
     </tr>
     <tr>
-        <td>287</td>
+        <td>0287</td>
         <td>Parecool</td>
         <td>Slakoth</td>
     </tr>
     <tr>
-        <td>288</td>
+        <td>0288</td>
         <td>Vigoroth</td>
         <td>Vigoroth</td>
     </tr>
     <tr>
-        <td>289</td>
+        <td>0289</td>
         <td>Monaflemit</td>
         <td>Slaking</td>
     </tr>
     <tr>
-        <td>290</td>
+        <td>0290</td>
         <td>Ningale</td>
         <td>Nincada</td>
     </tr>
     <tr>
-        <td>291</td>
+        <td>0291</td>
         <td>Ninjask</td>
         <td>Ninjask</td>
     </tr>
     <tr>
-        <td>292</td>
+        <td>0292</td>
         <td>Munja</td>
         <td>Shedinja</td>
     </tr>
     <tr>
-        <td>293</td>
+        <td>0293</td>
         <td>Chuchmur</td>
         <td>Whismur</td>
     </tr>
     <tr>
-        <td>294</td>
+        <td>0294</td>
         <td>Ramboum</td>
         <td>Loudred</td>
     </tr>
     <tr>
-        <td>295</td>
+        <td>0295</td>
         <td>Brouhabam</td>
         <td>Exploud</td>
     </tr>
     <tr>
-        <td>296</td>
+        <td>0296</td>
         <td>Makuhita</td>
         <td>Makuhita</td>
     </tr>
     <tr>
-        <td>297</td>
+        <td>0297</td>
         <td>Hariyama</td>
         <td>Hariyama</td>
     </tr>
     <tr>
-        <td>298</td>
+        <td>0298</td>
         <td>Azurill</td>
         <td>Azurill</td>
     </tr>
     <tr>
-        <td>299</td>
+        <td>0299</td>
         <td>Tarinor</td>
         <td>Nosepass</td>
     </tr>
     <tr>
-        <td>300</td>
+        <td>0300</td>
         <td>Skitty</td>
         <td>Skitty</td>
     </tr>
     <tr>
-        <td>301</td>
+        <td>0301</td>
         <td>Delcatty</td>
         <td>Delcatty</td>
     </tr>
     <tr>
-        <td>302</td>
+        <td>0302</td>
         <td>Tenefix</td>
         <td>Sableye</td>
     </tr>
     <tr>
-        <td>303</td>
+        <td>0303</td>
         <td>Mysdibule</td>
         <td>Mawile</td>
     </tr>
     <tr>
-        <td>304</td>
+        <td>0304</td>
         <td>Galekid</td>
         <td>Aron</td>
     </tr>
     <tr>
-        <td>305</td>
+        <td>0305</td>
         <td>Galegon</td>
         <td>Lairon</td>
     </tr>
     <tr>
-        <td>306</td>
+        <td>0306</td>
         <td>Galeking</td>
         <td>Aggron</td>
     </tr>
     <tr>
-        <td>307</td>
+        <td>0307</td>
         <td>Meditikka</td>
         <td>Meditite</td>
     </tr>
     <tr>
-        <td>308</td>
+        <td>0308</td>
         <td>Charmina</td>
         <td>Medicham</td>
     </tr>
     <tr>
-        <td>309</td>
+        <td>0309</td>
         <td>Dynavolt</td>
         <td>Electrike</td>
     </tr>
     <tr>
-        <td>310</td>
+        <td>0310</td>
         <td>elecsprint</td>
         <td>Manectric</td>
     </tr>
     <tr>
-        <td>311</td>
+        <td>0311</td>
         <td>Posipi</td>
         <td>Plusle</td>
     </tr>
     <tr>
-        <td>312</td>
+        <td>0312</td>
         <td>Negapi</td>
         <td>Minun</td>
     </tr>
     <tr>
-        <td>313</td>
+        <td>0313</td>
         <td>Muciole</td>
         <td>Volbeat</td>
     </tr>
     <tr>
-        <td>314</td>
+        <td>0314</td>
         <td>Lumivole</td>
         <td>Illumise</td>
     </tr>
     <tr>
-        <td>315</td>
+        <td>0315</td>
         <td>Roselia</td>
         <td>Roselia</td>
     </tr>
     <tr>
-        <td>316</td>
+        <td>0316</td>
         <td>Gloupti</td>
         <td>Gulpin</td>
     </tr>
     <tr>
-        <td>317</td>
+        <td>0317</td>
         <td>Avaltout</td>
         <td>Swalot</td>
     </tr>
     <tr>
-        <td>318</td>
+        <td>0318</td>
         <td>Carvanha</td>
         <td>Carvanha</td>
     </tr>
     <tr>
-        <td>319</td>
+        <td>0319</td>
         <td>Sharpedo</td>
         <td>Sharpedo</td>
     </tr>
     <tr>
-        <td>320</td>
+        <td>0320</td>
         <td>Wailmer</td>
         <td>Wailmer</td>
     </tr>
     <tr>
-        <td>321</td>
+        <td>0321</td>
         <td>Wailord</td>
         <td>Wailord</td>
     </tr>
     <tr>
-        <td>322</td>
+        <td>0322</td>
         <td>Chamallot</td>
         <td>Numel</td>
     </tr>
     <tr>
-        <td>323</td>
+        <td>0323</td>
         <td>Camerupt</td>
         <td>Camerupt</td>
     </tr>
     <tr>
-        <td>324</td>
+        <td>0324</td>
         <td>Chartor</td>
         <td>Torkoal</td>
     </tr>
     <tr>
-        <td>325</td>
+        <td>0325</td>
         <td>Spoink</td>
         <td>Spoink</td>
     </tr>
     <tr>
-        <td>326</td>
+        <td>0326</td>
         <td>Groret</td>
         <td>Grumpig</td>
     </tr>
     <tr>
-        <td>327</td>
+        <td>0327</td>
         <td>Spinda</td>
         <td>Spinda</td>
     </tr>
     <tr>
-        <td>328</td>
+        <td>0328</td>
         <td>Kraknoix</td>
         <td>Trapinch</td>
     </tr>
     <tr>
-        <td>329</td>
+        <td>0329</td>
         <td>Vibraninf</td>
         <td>Vibrava</td>
     </tr>
     <tr>
-        <td>330</td>
+        <td>0330</td>
         <td>Libegon</td>
         <td>Flygon</td>
     </tr>
     <tr>
-        <td>331</td>
+        <td>0331</td>
         <td>Cacnea</td>
         <td>Cacnea</td>
     </tr>
     <tr>
-        <td>332</td>
+        <td>0332</td>
         <td>Cacturne</td>
         <td>Cacturne</td>
     </tr>
     <tr>
-        <td>333</td>
+        <td>0333</td>
         <td>Tylton</td>
         <td>Swablu</td>
     </tr>
     <tr>
-        <td>334</td>
+        <td>0334</td>
         <td>Altaria</td>
         <td>Altaria</td>
     </tr>
     <tr>
-        <td>335</td>
+        <td>0335</td>
         <td>Mangriff</td>
         <td>Zangoose</td>
     </tr>
     <tr>
-        <td>336</td>
+        <td>0336</td>
         <td>Seviper</td>
         <td>Seviper</td>
     </tr>
     <tr>
-        <td>337</td>
+        <td>0337</td>
         <td>Seleroc</td>
         <td>Lunatone</td>
     </tr>
     <tr>
-        <td>338</td>
+        <td>0338</td>
         <td>Solaroc</td>
         <td>Solrock</td>
     </tr>
     <tr>
-        <td>339</td>
+        <td>0339</td>
         <td>Barloche</td>
         <td>Barboach</td>
     </tr>
     <tr>
-        <td>340</td>
+        <td>0340</td>
         <td>Barbicha</td>
         <td>Whiscash</td>
     </tr>
     <tr>
-        <td>341</td>
+        <td>0341</td>
         <td>ecrapince</td>
         <td>Corphish</td>
     </tr>
     <tr>
-        <td>342</td>
+        <td>0342</td>
         <td>Colhomard</td>
         <td>Crawdaunt</td>
     </tr>
     <tr>
-        <td>343</td>
+        <td>0343</td>
         <td>Balbuto</td>
         <td>Baltoy</td>
     </tr>
     <tr>
-        <td>344</td>
+        <td>0344</td>
         <td>Kaorine</td>
         <td>Claydol</td>
     </tr>
     <tr>
-        <td>345</td>
+        <td>0345</td>
         <td>Lilia</td>
         <td>Lileep</td>
     </tr>
     <tr>
-        <td>346</td>
+        <td>0346</td>
         <td>Vacilys</td>
         <td>Cradily</td>
     </tr>
     <tr>
-        <td>347</td>
+        <td>0347</td>
         <td>Anorith</td>
         <td>Anorith</td>
     </tr>
     <tr>
-        <td>348</td>
+        <td>0348</td>
         <td>Armaldo</td>
         <td>Armaldo</td>
     </tr>
     <tr>
-        <td>349</td>
+        <td>0349</td>
         <td>Barpau</td>
         <td>Feebas</td>
     </tr>
     <tr>
-        <td>350</td>
+        <td>0350</td>
         <td>Milobellus</td>
         <td>Milotic</td>
     </tr>
     <tr>
-        <td>351</td>
+        <td>0351</td>
         <td>Morpheo</td>
         <td>Castform</td>
     </tr>
     <tr>
-        <td>352</td>
+        <td>0352</td>
         <td>Kecleon</td>
         <td>Kecleon</td>
     </tr>
     <tr>
-        <td>353</td>
+        <td>0353</td>
         <td>Polichombr</td>
         <td>Shuppet</td>
     </tr>
     <tr>
-        <td>354</td>
+        <td>0354</td>
         <td>Branette</td>
         <td>Banette</td>
     </tr>
     <tr>
-        <td>355</td>
+        <td>0355</td>
         <td>Skelenox</td>
         <td>Duskull</td>
     </tr>
     <tr>
-        <td>356</td>
+        <td>0356</td>
         <td>Teraclope</td>
         <td>Dusclops</td>
     </tr>
     <tr>
-        <td>357</td>
+        <td>0357</td>
         <td>Tropius</td>
         <td>Tropius</td>
     </tr>
     <tr>
-        <td>358</td>
+        <td>0358</td>
         <td>eoko</td>
         <td>Chimecho</td>
     </tr>
     <tr>
-        <td>359</td>
+        <td>0359</td>
         <td>Absol</td>
         <td>Absol</td>
     </tr>
     <tr>
-        <td>360</td>
+        <td>0360</td>
         <td>Okeoke</td>
         <td>Wynaut</td>
     </tr>
     <tr>
-        <td>361</td>
+        <td>0361</td>
         <td>Stalgamin</td>
         <td>Snorunt</td>
     </tr>
     <tr>
-        <td>362</td>
+        <td>0362</td>
         <td>Oniglali</td>
         <td>Glalie</td>
     </tr>
     <tr>
-        <td>363</td>
+        <td>0363</td>
         <td>Obalie</td>
         <td>Spheal</td>
     </tr>
     <tr>
-        <td>364</td>
+        <td>0364</td>
         <td>Phogleur</td>
         <td>Sealeo</td>
     </tr>
     <tr>
-        <td>365</td>
+        <td>0365</td>
         <td>Kaimorse</td>
         <td>Walrein</td>
     </tr>
     <tr>
-        <td>366</td>
+        <td>0366</td>
         <td>Coquiperl</td>
         <td>Clamperl</td>
     </tr>
     <tr>
-        <td>367</td>
+        <td>0367</td>
         <td>Serpang</td>
         <td>Huntail</td>
     </tr>
     <tr>
-        <td>368</td>
+        <td>0368</td>
         <td>Rosabyss</td>
         <td>Gorebyss</td>
     </tr>
     <tr>
-        <td>369</td>
+        <td>0369</td>
         <td>Relicanth</td>
         <td>Relicanth</td>
     </tr>
     <tr>
-        <td>370</td>
+        <td>0370</td>
         <td>Lovdisc</td>
         <td>Luvdisc</td>
     </tr>
     <tr>
-        <td>371</td>
+        <td>0371</td>
         <td>Draby</td>
         <td>Bagon</td>
     </tr>
     <tr>
-        <td>372</td>
+        <td>0372</td>
         <td>Drackhaus</td>
         <td>Shelgon</td>
     </tr>
     <tr>
-        <td>373</td>
+        <td>0373</td>
         <td>Drattak</td>
         <td>Salamence</td>
     </tr>
     <tr>
-        <td>374</td>
+        <td>0374</td>
         <td>Terhal</td>
         <td>Beldum</td>
     </tr>
     <tr>
-        <td>375</td>
+        <td>0375</td>
         <td>Metang</td>
         <td>Metang</td>
     </tr>
     <tr>
-        <td>376</td>
+        <td>0376</td>
         <td>Metalosse</td>
         <td>Metagross</td>
     </tr>
     <tr>
-        <td>377</td>
+        <td>0377</td>
         <td>Regirock</td>
         <td>Regirock</td>
     </tr>
     <tr>
-        <td>378</td>
+        <td>0378</td>
         <td>Regice</td>
         <td>Regice</td>
     </tr>
     <tr>
-        <td>379</td>
+        <td>0379</td>
         <td>Registeel</td>
         <td>Registeel</td>
     </tr>
     <tr>
-        <td>380</td>
+        <td>0380</td>
         <td>Latias</td>
         <td>Latias</td>
     </tr>
     <tr>
-        <td>381</td>
+        <td>0381</td>
         <td>Latios</td>
         <td>Latios</td>
     </tr>
     <tr>
-        <td>382</td>
+        <td>0382</td>
         <td>Kyogre</td>
         <td>Kyogre</td>
     </tr>
     <tr>
-        <td>383</td>
+        <td>0383</td>
         <td>Groudon</td>
         <td>Groudon</td>
     </tr>
     <tr>
-        <td>384</td>
+        <td>0384</td>
         <td>Rayquaza</td>
         <td>Rayquaza</td>
     </tr>
     <tr>
-        <td>385</td>
+        <td>0385</td>
         <td>Jirachi</td>
         <td>Jirachi</td>
     </tr>
     <tr>
-        <td>386</td>
+        <td>0386</td>
         <td>Deoxys</td>
         <td>Deoxys</td>
     </tr>
     <tr>
-        <td>387</td>
+        <td>0387</td>
         <td>Tortipouss</td>
         <td>Turtwig</td>
     </tr>
     <tr>
-        <td>388</td>
+        <td>0388</td>
         <td>Boskara</td>
         <td>Grotle</td>
     </tr>
     <tr>
-        <td>389</td>
+        <td>0389</td>
         <td>Torterra</td>
         <td>Torterra</td>
     </tr>
     <tr>
-        <td>390</td>
+        <td>0390</td>
         <td>Ouisticram</td>
         <td>Chimchar</td>
     </tr>
     <tr>
-        <td>391</td>
+        <td>0391</td>
         <td>Chimpenfeu</td>
         <td>Monferno</td>
     </tr>
     <tr>
-        <td>392</td>
+        <td>0392</td>
         <td>Simiabraz</td>
         <td>Infernape</td>
     </tr>
     <tr>
-        <td>393</td>
+        <td>0393</td>
         <td>Tiplouf</td>
         <td>Piplup</td>
     </tr>
     <tr>
-        <td>394</td>
+        <td>0394</td>
         <td>Prinplouf</td>
         <td>Prinplup</td>
     </tr>
     <tr>
-        <td>395</td>
+        <td>0395</td>
         <td>Pingoleon</td>
         <td>Empoleon</td>
     </tr>
     <tr>
-        <td>396</td>
+        <td>0396</td>
         <td>etourmi</td>
         <td>Starly</td>
     </tr>
     <tr>
-        <td>397</td>
+        <td>0397</td>
         <td>etourvol</td>
         <td>Staravia</td>
     </tr>
     <tr>
-        <td>398</td>
+        <td>0398</td>
         <td>etouraptor</td>
         <td>Staraptor</td>
     </tr>
     <tr>
-        <td>399</td>
+        <td>0399</td>
         <td>Keunotor</td>
         <td>Bidoof</td>
     </tr>
     <tr>
-        <td>400</td>
+        <td>0400</td>
         <td>Castorno</td>
         <td>Bibarel</td>
     </tr>
     <tr>
-        <td>401</td>
+        <td>0401</td>
         <td>Crikzik</td>
         <td>Kricketot</td>
     </tr>
     <tr>
-        <td>402</td>
+        <td>0402</td>
         <td>Melokrik</td>
         <td>Kricketune</td>
     </tr>
     <tr>
-        <td>403</td>
+        <td>0403</td>
         <td>Lixy</td>
         <td>Shinx</td>
     </tr>
     <tr>
-        <td>404</td>
+        <td>0404</td>
         <td>Luxio</td>
         <td>Luxio</td>
     </tr>
     <tr>
-        <td>405</td>
+        <td>0405</td>
         <td>Luxray</td>
         <td>Luxray</td>
     </tr>
     <tr>
-        <td>406</td>
+        <td>0406</td>
         <td>Rozbouton</td>
         <td>Budew</td>
     </tr>
     <tr>
-        <td>407</td>
+        <td>0407</td>
         <td>Roserade</td>
         <td>Roserade</td>
     </tr>
     <tr>
-        <td>408</td>
+        <td>0408</td>
         <td>Kranidos</td>
         <td>Cranidos</td>
     </tr>
     <tr>
-        <td>409</td>
+        <td>0409</td>
         <td>Charkos</td>
         <td>Rampardos</td>
     </tr>
     <tr>
-        <td>410</td>
+        <td>0410</td>
         <td>Dinoclier</td>
         <td>Shieldon</td>
     </tr>
     <tr>
-        <td>411</td>
+        <td>0411</td>
         <td>Bastiodon</td>
         <td>Bastiodon</td>
     </tr>
     <tr>
-        <td>412</td>
+        <td>0412</td>
         <td>Cheniti</td>
         <td>Burmy</td>
     </tr>
     <tr>
-        <td>413</td>
+        <td>0413</td>
         <td>Cheniselle</td>
         <td>Wormadam</td>
     </tr>
     <tr>
-        <td>414</td>
+        <td>0414</td>
         <td>Papilord</td>
         <td>Mothim</td>
     </tr>
     <tr>
-        <td>415</td>
+        <td>0415</td>
         <td>Apitrini</td>
         <td>Combee</td>
     </tr>
     <tr>
-        <td>416</td>
+        <td>0416</td>
         <td>Apireine</td>
         <td>Vespiquen</td>
     </tr>
     <tr>
-        <td>417</td>
+        <td>0417</td>
         <td>Pachirisu</td>
         <td>Pachirisu</td>
     </tr>
     <tr>
-        <td>418</td>
+        <td>0418</td>
         <td>Mustebouee</td>
         <td>Buizel</td>
     </tr>
     <tr>
-        <td>419</td>
+        <td>0419</td>
         <td>Musteflott</td>
         <td>Floatzel</td>
     </tr>
     <tr>
-        <td>420</td>
+        <td>0420</td>
         <td>Ceribou</td>
         <td>Cherubi</td>
     </tr>
     <tr>
-        <td>421</td>
+        <td>0421</td>
         <td>Ceriflor</td>
         <td>Cherrim</td>
     </tr>
     <tr>
-        <td>422</td>
+        <td>0422</td>
         <td>Sancoki</td>
         <td>Shellos</td>
     </tr>
     <tr>
-        <td>423</td>
+        <td>0423</td>
         <td>Tritosor</td>
         <td>Gastrodon</td>
     </tr>
     <tr>
-        <td>424</td>
+        <td>0424</td>
         <td>Capidextre</td>
         <td>Ambipom</td>
     </tr>
     <tr>
-        <td>425</td>
+        <td>0425</td>
         <td>Baudrive</td>
         <td>Drifloon</td>
     </tr>
     <tr>
-        <td>426</td>
+        <td>0426</td>
         <td>Grodrive</td>
         <td>Drifblim</td>
     </tr>
     <tr>
-        <td>427</td>
+        <td>0427</td>
         <td>Laporeille</td>
         <td>Buneary</td>
     </tr>
     <tr>
-        <td>428</td>
+        <td>0428</td>
         <td>Lockpin</td>
         <td>Lopunny</td>
     </tr>
     <tr>
-        <td>429</td>
+        <td>0429</td>
         <td>Magireve</td>
         <td>Mismagius</td>
     </tr>
     <tr>
-        <td>430</td>
+        <td>0430</td>
         <td>Corboss</td>
         <td>Honchkrow</td>
     </tr>
     <tr>
-        <td>431</td>
+        <td>0431</td>
         <td>Chaglam</td>
         <td>Glameow</td>
     </tr>
     <tr>
-        <td>432</td>
+        <td>0432</td>
         <td>Chaffreux</td>
         <td>Purugly</td>
     </tr>
     <tr>
-        <td>433</td>
+        <td>0433</td>
         <td>Korillon</td>
         <td>Chingling</td>
     </tr>
     <tr>
-        <td>434</td>
+        <td>0434</td>
         <td>Moufouette</td>
         <td>Stunky</td>
     </tr>
     <tr>
-        <td>435</td>
+        <td>0435</td>
         <td>Moufflair</td>
         <td>Skuntank</td>
     </tr>
     <tr>
-        <td>436</td>
+        <td>0436</td>
         <td>Archeomire</td>
         <td>Bronzor</td>
     </tr>
     <tr>
-        <td>437</td>
+        <td>0437</td>
         <td>Archeodong</td>
         <td>Bronzong</td>
     </tr>
     <tr>
-        <td>438</td>
+        <td>0438</td>
         <td>Manzai</td>
         <td>Bonsly</td>
     </tr>
     <tr>
-        <td>439</td>
+        <td>0439</td>
         <td>Mime Jr.</td>
         <td>Mime Jr.</td>
     </tr>
     <tr>
-        <td>440</td>
+        <td>0440</td>
         <td>Ptiravi</td>
         <td>Happiny</td>
     </tr>
     <tr>
-        <td>441</td>
+        <td>0441</td>
         <td>Pijako</td>
         <td>Chatot</td>
     </tr>
     <tr>
-        <td>442</td>
+        <td>0442</td>
         <td>Spiritomb</td>
         <td>Spiritomb</td>
     </tr>
     <tr>
-        <td>443</td>
+        <td>0443</td>
         <td>Griknot</td>
         <td>Gible</td>
     </tr>
     <tr>
-        <td>444</td>
+        <td>0444</td>
         <td>Carmache</td>
         <td>Gabite</td>
     </tr>
     <tr>
-        <td>445</td>
+        <td>0445</td>
         <td>Carchacrok</td>
         <td>Garchomp</td>
     </tr>
     <tr>
-        <td>446</td>
+        <td>0446</td>
         <td>Goinfrex</td>
         <td>Munchlax</td>
     </tr>
     <tr>
-        <td>447</td>
+        <td>0447</td>
         <td>Riolu</td>
         <td>Riolu</td>
     </tr>
     <tr>
-        <td>448</td>
+        <td>0448</td>
         <td>Lucario</td>
         <td>Lucario</td>
     </tr>
     <tr>
-        <td>449</td>
+        <td>0449</td>
         <td>Hippopotas</td>
         <td>Hippopotas</td>
     </tr>
     <tr>
-        <td>450</td>
+        <td>0450</td>
         <td>Hippodocus</td>
         <td>Hippowdon</td>
     </tr>
     <tr>
-        <td>451</td>
+        <td>0451</td>
         <td>Rapion</td>
         <td>Skorupi</td>
     </tr>
     <tr>
-        <td>452</td>
+        <td>0452</td>
         <td>Drascore</td>
         <td>Drapion</td>
     </tr>
     <tr>
-        <td>453</td>
+        <td>0453</td>
         <td>Cradopaud</td>
         <td>Croagunk</td>
     </tr>
     <tr>
-        <td>454</td>
+        <td>0454</td>
         <td>Coatox</td>
         <td>Toxicroak</td>
     </tr>
     <tr>
-        <td>455</td>
+        <td>0455</td>
         <td>Vortente</td>
         <td>Carnivine</td>
     </tr>
     <tr>
-        <td>456</td>
+        <td>0456</td>
         <td>ecayon</td>
         <td>Finneon</td>
     </tr>
     <tr>
-        <td>457</td>
+        <td>0457</td>
         <td>Lumineon</td>
         <td>Lumineon</td>
     </tr>
     <tr>
-        <td>458</td>
+        <td>0458</td>
         <td>Babimanta</td>
         <td>Mantyke</td>
     </tr>
     <tr>
-        <td>459</td>
+        <td>0459</td>
         <td>Blizzi</td>
         <td>Snover</td>
     </tr>
     <tr>
-        <td>460</td>
+        <td>0460</td>
         <td>Blizzaroi</td>
         <td>Abomasnow</td>
     </tr>
     <tr>
-        <td>461</td>
+        <td>0461</td>
         <td>Dimoret</td>
         <td>Weavile</td>
     </tr>
     <tr>
-        <td>462</td>
+        <td>0462</td>
         <td>Magnezone</td>
         <td>Magnezone</td>
     </tr>
     <tr>
-        <td>463</td>
+        <td>0463</td>
         <td>Coudlangue</td>
         <td>Lickilicky</td>
     </tr>
     <tr>
-        <td>464</td>
+        <td>0464</td>
         <td>Rhinastoc</td>
         <td>Rhyperior</td>
     </tr>
     <tr>
-        <td>465</td>
+        <td>0465</td>
         <td>Bouldeneu</td>
         <td>Tangrowth</td>
     </tr>
     <tr>
-        <td>466</td>
+        <td>0466</td>
         <td>elekable</td>
         <td>Electivire</td>
     </tr>
     <tr>
-        <td>467</td>
+        <td>0467</td>
         <td>Maganon</td>
         <td>Magmortar</td>
     </tr>
     <tr>
-        <td>468</td>
+        <td>0468</td>
         <td>Togekiss</td>
         <td>Togekiss</td>
     </tr>
     <tr>
-        <td>469</td>
+        <td>0469</td>
         <td>Yanmega</td>
         <td>Yanmega</td>
     </tr>
     <tr>
-        <td>470</td>
+        <td>0470</td>
         <td>Phyllali</td>
         <td>Leafeon</td>
     </tr>
     <tr>
-        <td>471</td>
+        <td>0471</td>
         <td>Givrali</td>
         <td>Glaceon</td>
     </tr>
     <tr>
-        <td>472</td>
+        <td>0472</td>
         <td>Scorvol</td>
         <td>Gliscor</td>
     </tr>
     <tr>
-        <td>473</td>
+        <td>0473</td>
         <td>Mammochon</td>
         <td>Mamoswine</td>
     </tr>
     <tr>
-        <td>474</td>
+        <td>0474</td>
         <td>Porygon-Z</td>
         <td>Porygon-Z</td>
     </tr>
     <tr>
-        <td>475</td>
+        <td>0475</td>
         <td>Gallame</td>
         <td>Gallade</td>
     </tr>
     <tr>
-        <td>476</td>
+        <td>0476</td>
         <td>Tarinorme</td>
         <td>Probopass</td>
     </tr>
     <tr>
-        <td>477</td>
+        <td>0477</td>
         <td>Noctunoir</td>
         <td>Dusknoir</td>
     </tr>
     <tr>
-        <td>478</td>
+        <td>0478</td>
         <td>Momartik</td>
         <td>Froslass</td>
     </tr>
     <tr>
-        <td>479</td>
+        <td>0479</td>
         <td>Motisma</td>
         <td>Rotom</td>
     </tr>
     <tr>
-        <td>480</td>
+        <td>0480</td>
         <td>Crehelf</td>
         <td>Uxie</td>
     </tr>
     <tr>
-        <td>481</td>
+        <td>0481</td>
         <td>Crefollet</td>
         <td>Mesprit</td>
     </tr>
     <tr>
-        <td>482</td>
+        <td>0482</td>
         <td>Crefadet</td>
         <td>Azelf</td>
     </tr>
     <tr>
-        <td>483</td>
+        <td>0483</td>
         <td>Dialga</td>
         <td>Dialga</td>
     </tr>
     <tr>
-        <td>484</td>
+        <td>0484</td>
         <td>Palkia</td>
         <td>Palkia</td>
     </tr>
     <tr>
-        <td>485</td>
+        <td>0485</td>
         <td>Heatran</td>
         <td>Heatran</td>
     </tr>
     <tr>
-        <td>486</td>
+        <td>0486</td>
         <td>Regigigas</td>
         <td>Regigigas</td>
     </tr>
     <tr>
-        <td>487</td>
+        <td>0487</td>
         <td>Giratina</td>
         <td>Giratina</td>
     </tr>
     <tr>
-        <td>488</td>
+        <td>0488</td>
         <td>Cresselia</td>
         <td>Cresselia</td>
     </tr>
     <tr>
-        <td>489</td>
+        <td>0489</td>
         <td>Phione</td>
         <td>Phione</td>
     </tr>
     <tr>
-        <td>490</td>
+        <td>0490</td>
         <td>Manaphy</td>
         <td>Manaphy</td>
     </tr>
     <tr>
-        <td>491</td>
+        <td>0491</td>
         <td>Darkrai</td>
         <td>Darkrai</td>
     </tr>
     <tr>
-        <td>492</td>
+        <td>0492</td>
         <td>Shaymin</td>
         <td>Shaymin</td>
     </tr>
     <tr>
-        <td>493</td>
+        <td>0493</td>
         <td>Arceus</td>
         <td>Arceus</td>
     </tr>
     <tr>
-        <td>494</td>
+        <td>0494</td>
         <td>Victini</td>
         <td>Victini</td>
     </tr>
     <tr>
-        <td>495</td>
+        <td>0495</td>
         <td>Vipelierre</td>
         <td>Snivy</td>
     </tr>
     <tr>
-        <td>496</td>
+        <td>0496</td>
         <td>Lianaja</td>
         <td>Servine</td>
     </tr>
     <tr>
-        <td>497</td>
+        <td>0497</td>
         <td>Majaspic</td>
         <td>Serperior</td>
     </tr>
     <tr>
-        <td>498</td>
+        <td>0498</td>
         <td>Gruikui</td>
         <td>Tepig</td>
     </tr>
     <tr>
-        <td>499</td>
+        <td>0499</td>
         <td>Grotichon</td>
         <td>Pignite</td>
     </tr>
     <tr>
-        <td>500</td>
+        <td>0500</td>
         <td>Roitiflam</td>
         <td>Emboar</td>
     </tr>
     <tr>
-        <td>501</td>
+        <td>0501</td>
         <td>Moustillon</td>
         <td>Oshawott</td>
     </tr>
     <tr>
-        <td>502</td>
+        <td>0502</td>
         <td>Mateloutre</td>
         <td>Dewott</td>
     </tr>
     <tr>
-        <td>503</td>
+        <td>0503</td>
         <td>Clamiral</td>
         <td>Samurott</td>
     </tr>
     <tr>
-        <td>504</td>
+        <td>0504</td>
         <td>Ratentif</td>
         <td>Patrat</td>
     </tr>
     <tr>
-        <td>505</td>
+        <td>0505</td>
         <td>Miradar</td>
         <td>Watchog</td>
     </tr>
     <tr>
-        <td>506</td>
+        <td>0506</td>
         <td>Ponchiot</td>
         <td>Lillipup</td>
     </tr>
     <tr>
-        <td>507</td>
+        <td>0507</td>
         <td>Ponchien</td>
         <td>Herdier</td>
     </tr>
     <tr>
-        <td>508</td>
+        <td>0508</td>
         <td>Mastouffe</td>
         <td>Stoutland</td>
     </tr>
     <tr>
-        <td>509</td>
+        <td>0509</td>
         <td>Chacripan</td>
         <td>Purrloin</td>
     </tr>
     <tr>
-        <td>510</td>
+        <td>0510</td>
         <td>Leopardus</td>
         <td>Liepard</td>
     </tr>
     <tr>
-        <td>511</td>
+        <td>0511</td>
         <td>Feuillajou</td>
         <td>Pansage</td>
     </tr>
     <tr>
-        <td>512</td>
+        <td>0512</td>
         <td>Feuiloutan</td>
         <td>Simisage</td>
     </tr>
     <tr>
-        <td>513</td>
+        <td>0513</td>
         <td>Flamajou</td>
         <td>Pansear</td>
     </tr>
     <tr>
-        <td>514</td>
+        <td>0514</td>
         <td>Flamoutan</td>
         <td>Simisear</td>
     </tr>
     <tr>
-        <td>515</td>
+        <td>0515</td>
         <td>Flotajou</td>
         <td>Panpour</td>
     </tr>
     <tr>
-        <td>516</td>
+        <td>0516</td>
         <td>Flotoutan</td>
         <td>Simipour</td>
     </tr>
     <tr>
-        <td>517</td>
+        <td>0517</td>
         <td>Munna</td>
         <td>Munna</td>
     </tr>
     <tr>
-        <td>518</td>
+        <td>0518</td>
         <td>Mushana</td>
         <td>Musharna</td>
     </tr>
     <tr>
-        <td>519</td>
+        <td>0519</td>
         <td>Poichigeon</td>
         <td>Pidove</td>
     </tr>
     <tr>
-        <td>520</td>
+        <td>0520</td>
         <td>Colombeau</td>
         <td>Tranquill</td>
     </tr>
     <tr>
-        <td>521</td>
+        <td>0521</td>
         <td>Deflaisan</td>
         <td>Unfezant</td>
     </tr>
     <tr>
-        <td>522</td>
+        <td>0522</td>
         <td>Zebibron</td>
         <td>Blitzle</td>
     </tr>
     <tr>
-        <td>523</td>
+        <td>0523</td>
         <td>Zeblitz</td>
         <td>Zebstrika</td>
     </tr>
     <tr>
-        <td>524</td>
+        <td>0524</td>
         <td>Nodulithe</td>
         <td>Roggenrola</td>
     </tr>
     <tr>
-        <td>525</td>
+        <td>0525</td>
         <td>Geolithe</td>
         <td>Boldore</td>
     </tr>
     <tr>
-        <td>526</td>
+        <td>0526</td>
         <td>Gigalithe</td>
         <td>Gigalith</td>
     </tr>
     <tr>
-        <td>527</td>
+        <td>0527</td>
         <td>Chovsourir</td>
         <td>Woobat</td>
     </tr>
     <tr>
-        <td>528</td>
+        <td>0528</td>
         <td>Rhinolove</td>
         <td>Swoobat</td>
     </tr>
     <tr>
-        <td>529</td>
+        <td>0529</td>
         <td>Rototaupe</td>
         <td>Drilbur</td>
     </tr>
     <tr>
-        <td>530</td>
+        <td>0530</td>
         <td>Minotaupe</td>
         <td>Excadrill</td>
     </tr>
     <tr>
-        <td>531</td>
+        <td>0531</td>
         <td>Nanmeouie</td>
         <td>Audino</td>
     </tr>
     <tr>
-        <td>532</td>
+        <td>0532</td>
         <td>Charpenti</td>
         <td>Timburr</td>
     </tr>
     <tr>
-        <td>533</td>
+        <td>0533</td>
         <td>Ouvrifier</td>
         <td>Gurdurr</td>
     </tr>
     <tr>
-        <td>534</td>
+        <td>0534</td>
         <td>Betochef</td>
         <td>Conkeldurr</td>
     </tr>
     <tr>
-        <td>535</td>
+        <td>0535</td>
         <td>Tritonde</td>
         <td>Tympole</td>
     </tr>
     <tr>
-        <td>536</td>
+        <td>0536</td>
         <td>Batracne</td>
         <td>Palpitoad</td>
     </tr>
     <tr>
-        <td>537</td>
+        <td>0537</td>
         <td>Crapustule</td>
         <td>Seismitoad</td>
     </tr>
     <tr>
-        <td>538</td>
+        <td>0538</td>
         <td>Judokrak</td>
         <td>Throh</td>
     </tr>
     <tr>
-        <td>539</td>
+        <td>0539</td>
         <td>Karaclee</td>
         <td>Sawk</td>
     </tr>
     <tr>
-        <td>540</td>
+        <td>0540</td>
         <td>Larveyette</td>
         <td>Sewaddle</td>
     </tr>
     <tr>
-        <td>541</td>
+        <td>0541</td>
         <td>Couverdure</td>
         <td>Swadloon</td>
     </tr>
     <tr>
-        <td>542</td>
+        <td>0542</td>
         <td>Manternel</td>
         <td>Leavanny</td>
     </tr>
     <tr>
-        <td>543</td>
+        <td>0543</td>
         <td>Venipatte</td>
         <td>Venipede</td>
     </tr>
     <tr>
-        <td>544</td>
+        <td>0544</td>
         <td>Scobolide</td>
         <td>Whirlipede</td>
     </tr>
     <tr>
-        <td>545</td>
+        <td>0545</td>
         <td>Brutapode</td>
         <td>Scolipede</td>
     </tr>
     <tr>
-        <td>546</td>
+        <td>0546</td>
         <td>Doudouvet</td>
         <td>Cottonee</td>
     </tr>
     <tr>
-        <td>547</td>
+        <td>0547</td>
         <td>Farfaduvet</td>
         <td>Whimsicott</td>
     </tr>
     <tr>
-        <td>548</td>
+        <td>0548</td>
         <td>Chlorobule</td>
         <td>Petilil</td>
     </tr>
     <tr>
-        <td>549</td>
+        <td>0549</td>
         <td>Fragilady</td>
         <td>Lilligant</td>
     </tr>
     <tr>
-        <td>550</td>
+        <td>0550</td>
         <td>Bargantua</td>
         <td>Basculin</td>
     </tr>
     <tr>
-        <td>551</td>
+        <td>0551</td>
         <td>Mascaiman</td>
         <td>Sandile</td>
     </tr>
     <tr>
-        <td>552</td>
+        <td>0552</td>
         <td>Escroco</td>
         <td>Krokorok</td>
     </tr>
     <tr>
-        <td>553</td>
+        <td>0553</td>
         <td>Crocorible</td>
         <td>Krookodile</td>
     </tr>
     <tr>
-        <td>554</td>
+        <td>0554</td>
         <td>Darumarond</td>
         <td>Darumaka</td>
     </tr>
     <tr>
-        <td>555</td>
+        <td>0555</td>
         <td>Darumacho</td>
         <td>Darmanitan</td>
     </tr>
     <tr>
-        <td>556</td>
+        <td>0556</td>
         <td>Maracachi</td>
         <td>Maractus</td>
     </tr>
     <tr>
-        <td>557</td>
+        <td>0557</td>
         <td>Crabicoque</td>
         <td>Dwebble</td>
     </tr>
     <tr>
-        <td>558</td>
+        <td>0558</td>
         <td>Crabaraque</td>
         <td>Crustle</td>
     </tr>
     <tr>
-        <td>559</td>
+        <td>0559</td>
         <td>Baggiguane</td>
         <td>Scraggy</td>
     </tr>
     <tr>
-        <td>560</td>
+        <td>0560</td>
         <td>Baggaid</td>
         <td>Scrafty</td>
     </tr>
     <tr>
-        <td>561</td>
+        <td>0561</td>
         <td>Cryptero</td>
         <td>Sigilyph</td>
     </tr>
     <tr>
-        <td>562</td>
+        <td>0562</td>
         <td>Tutafeh</td>
         <td>Yamask</td>
     </tr>
     <tr>
-        <td>563</td>
+        <td>0563</td>
         <td>Tutankafer</td>
         <td>Cofagrigus</td>
     </tr>
     <tr>
-        <td>564</td>
+        <td>0564</td>
         <td>Carapagos</td>
         <td>Tirtouga</td>
     </tr>
     <tr>
-        <td>565</td>
+        <td>0565</td>
         <td>Megapagos</td>
         <td>Carracosta</td>
     </tr>
     <tr>
-        <td>566</td>
+        <td>0566</td>
         <td>Arkeapti</td>
         <td>Archen</td>
     </tr>
     <tr>
-        <td>567</td>
+        <td>0567</td>
         <td>Aeropteryx</td>
         <td>Archeops</td>
     </tr>
     <tr>
-        <td>568</td>
+        <td>0568</td>
         <td>Miamiasme</td>
         <td>Trubbish</td>
     </tr>
     <tr>
-        <td>569</td>
+        <td>0569</td>
         <td>Miasmax</td>
         <td>Garbodor</td>
     </tr>
     <tr>
-        <td>570</td>
+        <td>0570</td>
         <td>Zorua</td>
         <td>Zorua</td>
     </tr>
     <tr>
-        <td>571</td>
+        <td>0571</td>
         <td>Zoroark</td>
         <td>Zoroark</td>
     </tr>
     <tr>
-        <td>572</td>
+        <td>0572</td>
         <td>Chinchidou</td>
         <td>Minccino</td>
     </tr>
     <tr>
-        <td>573</td>
+        <td>0573</td>
         <td>Pashmilla</td>
         <td>Cinccino</td>
     </tr>
     <tr>
-        <td>574</td>
+        <td>0574</td>
         <td>Scrutella</td>
         <td>Gothita</td>
     </tr>
     <tr>
-        <td>575</td>
+        <td>0575</td>
         <td>Mesmerella</td>
         <td>Gothorita</td>
     </tr>
     <tr>
-        <td>576</td>
+        <td>0576</td>
         <td>Siderella</td>
         <td>Gothitelle</td>
     </tr>
     <tr>
-        <td>577</td>
+        <td>0577</td>
         <td>Nucleos</td>
         <td>Solosis</td>
     </tr>
     <tr>
-        <td>578</td>
+        <td>0578</td>
         <td>Meios</td>
         <td>Duosion</td>
     </tr>
     <tr>
-        <td>579</td>
+        <td>0579</td>
         <td>Symbios</td>
         <td>Reuniclus</td>
     </tr>
     <tr>
-        <td>580</td>
+        <td>0580</td>
         <td>Couaneton</td>
         <td>Ducklett</td>
     </tr>
     <tr>
-        <td>581</td>
+        <td>0581</td>
         <td>Lakmecygne</td>
         <td>Swanna</td>
     </tr>
     <tr>
-        <td>582</td>
+        <td>0582</td>
         <td>Sorbebe</td>
         <td>Vanillite</td>
     </tr>
     <tr>
-        <td>583</td>
+        <td>0583</td>
         <td>Sorboul</td>
         <td>Vanillish</td>
     </tr>
     <tr>
-        <td>584</td>
+        <td>0584</td>
         <td>Sorbouboul</td>
         <td>Vanilluxe</td>
     </tr>
     <tr>
-        <td>585</td>
+        <td>0585</td>
         <td>Vivaldaim</td>
         <td>Deerling</td>
     </tr>
     <tr>
-        <td>586</td>
+        <td>0586</td>
         <td>Haydaim</td>
         <td>Sawsbuck</td>
     </tr>
     <tr>
-        <td>587</td>
+        <td>0587</td>
         <td>Emolga</td>
         <td>Emolga</td>
     </tr>
     <tr>
-        <td>588</td>
+        <td>0588</td>
         <td>Carabing</td>
         <td>Karrablast</td>
     </tr>
     <tr>
-        <td>589</td>
+        <td>0589</td>
         <td>Lancargot</td>
         <td>Escavalier</td>
     </tr>
     <tr>
-        <td>590</td>
+        <td>0590</td>
         <td>Trompignon</td>
         <td>Foongus</td>
     </tr>
     <tr>
-        <td>591</td>
+        <td>0591</td>
         <td>Gaulet</td>
         <td>Amoonguss</td>
     </tr>
     <tr>
-        <td>592</td>
+        <td>0592</td>
         <td>Viskuse</td>
         <td>Frillish</td>
     </tr>
     <tr>
-        <td>593</td>
+        <td>0593</td>
         <td>Moyade</td>
         <td>Jellicent</td>
     </tr>
     <tr>
-        <td>594</td>
+        <td>0594</td>
         <td>Mamanbo</td>
         <td>Alomomola</td>
     </tr>
     <tr>
-        <td>595</td>
+        <td>0595</td>
         <td>Statitik</td>
         <td>Joltik</td>
     </tr>
     <tr>
-        <td>596</td>
+        <td>0596</td>
         <td>Mygavolt</td>
         <td>Galvantula</td>
     </tr>
     <tr>
-        <td>597</td>
+        <td>0597</td>
         <td>Grindur</td>
         <td>Ferroseed</td>
     </tr>
     <tr>
-        <td>598</td>
+        <td>0598</td>
         <td>Noacier</td>
         <td>Ferrothorn</td>
     </tr>
     <tr>
-        <td>599</td>
+        <td>0599</td>
         <td>Tic</td>
         <td>Klink</td>
     </tr>
     <tr>
-        <td>600</td>
+        <td>0600</td>
         <td>Clic</td>
         <td>Klang</td>
     </tr>
     <tr>
-        <td>601</td>
+        <td>0601</td>
         <td>Cliticlic</td>
         <td>Klinklang</td>
     </tr>
     <tr>
-        <td>602</td>
+        <td>0602</td>
         <td>Anchwatt</td>
         <td>Tynamo</td>
     </tr>
     <tr>
-        <td>603</td>
+        <td>0603</td>
         <td>Lamperoie</td>
         <td>Eelektrik</td>
     </tr>
     <tr>
-        <td>604</td>
+        <td>0604</td>
         <td>Ohmassacre</td>
         <td>Eelektross</td>
     </tr>
     <tr>
-        <td>605</td>
+        <td>0605</td>
         <td>Lewsor</td>
         <td>Elgyem</td>
     </tr>
     <tr>
-        <td>606</td>
+        <td>0606</td>
         <td>Neitram</td>
         <td>Beheeyem</td>
     </tr>
     <tr>
-        <td>607</td>
+        <td>0607</td>
         <td>Funecire</td>
         <td>Litwick</td>
     </tr>
     <tr>
-        <td>608</td>
+        <td>0608</td>
         <td>Melancolux</td>
         <td>Lampent</td>
     </tr>
     <tr>
-        <td>609</td>
+        <td>0609</td>
         <td>Lugulabre</td>
         <td>Chandelure</td>
     </tr>
     <tr>
-        <td>610</td>
+        <td>0610</td>
         <td>Coupenotte</td>
         <td>Axew</td>
     </tr>
     <tr>
-        <td>611</td>
+        <td>0611</td>
         <td>Incisache</td>
         <td>Fraxure</td>
     </tr>
     <tr>
-        <td>612</td>
+        <td>0612</td>
         <td>Tranchodon</td>
         <td>Haxorus</td>
     </tr>
     <tr>
-        <td>613</td>
+        <td>0613</td>
         <td>Polarhume</td>
         <td>Cubchoo</td>
     </tr>
     <tr>
-        <td>614</td>
+        <td>0614</td>
         <td>Polagriffe</td>
         <td>Beartic</td>
     </tr>
     <tr>
-        <td>615</td>
+        <td>0615</td>
         <td>Hexagel</td>
         <td>Cryogonal</td>
     </tr>
     <tr>
-        <td>616</td>
+        <td>0616</td>
         <td>Escargaume</td>
         <td>Shelmet</td>
     </tr>
     <tr>
-        <td>617</td>
+        <td>0617</td>
         <td>Limaspeed</td>
         <td>Accelgor</td>
     </tr>
     <tr>
-        <td>618</td>
+        <td>0618</td>
         <td>Limonde</td>
         <td>Stunfisk</td>
     </tr>
     <tr>
-        <td>619</td>
+        <td>0619</td>
         <td>Kungfouine</td>
         <td>Mienfoo</td>
     </tr>
     <tr>
-        <td>620</td>
+        <td>0620</td>
         <td>Shaofouine</td>
         <td>Mienshao</td>
     </tr>
     <tr>
-        <td>621</td>
+        <td>0621</td>
         <td>Drakkarmin</td>
         <td>Druddigon</td>
     </tr>
     <tr>
-        <td>622</td>
+        <td>0622</td>
         <td>Gringolem</td>
         <td>Golett</td>
     </tr>
     <tr>
-        <td>623</td>
+        <td>0623</td>
         <td>Golemastoc</td>
         <td>Golurk</td>
     </tr>
     <tr>
-        <td>624</td>
+        <td>0624</td>
         <td>Scalpion</td>
         <td>Pawniard</td>
     </tr>
     <tr>
-        <td>625</td>
+        <td>0625</td>
         <td>Scalproie</td>
         <td>Bisharp</td>
     </tr>
     <tr>
-        <td>626</td>
+        <td>0626</td>
         <td>Frison</td>
         <td>Bouffalant</td>
     </tr>
     <tr>
-        <td>627</td>
+        <td>0627</td>
         <td>Furaiglon</td>
         <td>Rufflet</td>
     </tr>
     <tr>
-        <td>628</td>
+        <td>0628</td>
         <td>Gueriaigle</td>
         <td>Braviary</td>
     </tr>
     <tr>
-        <td>629</td>
+        <td>0629</td>
         <td>Vostourno</td>
         <td>Vullaby</td>
     </tr>
     <tr>
-        <td>630</td>
+        <td>0630</td>
         <td>Vaututrice</td>
         <td>Mandibuzz</td>
     </tr>
     <tr>
-        <td>631</td>
+        <td>0631</td>
         <td>Aflamanoir</td>
         <td>Heatmor</td>
     </tr>
     <tr>
-        <td>632</td>
+        <td>0632</td>
         <td>Fermite</td>
         <td>Durant</td>
     </tr>
     <tr>
-        <td>633</td>
+        <td>0633</td>
         <td>Solochi</td>
         <td>Deino</td>
     </tr>
     <tr>
-        <td>634</td>
+        <td>0634</td>
         <td>Diamat</td>
         <td>Zweilous</td>
     </tr>
     <tr>
-        <td>635</td>
+        <td>0635</td>
         <td>Trioxhydre</td>
         <td>Hydreigon</td>
     </tr>
     <tr>
-        <td>636</td>
+        <td>0636</td>
         <td>Pyronille</td>
         <td>Larvesta</td>
     </tr>
     <tr>
-        <td>637</td>
+        <td>0637</td>
         <td>Pyrax</td>
         <td>Volcarona</td>
     </tr>
     <tr>
-        <td>638</td>
+        <td>0638</td>
         <td>Cobaltium</td>
         <td>Cobalion</td>
     </tr>
     <tr>
-        <td>639</td>
+        <td>0639</td>
         <td>Terrakium</td>
         <td>Terrakion</td>
     </tr>
     <tr>
-        <td>640</td>
+        <td>0640</td>
         <td>Viridium</td>
         <td>Virizion</td>
     </tr>
     <tr>
-        <td>641</td>
+        <td>0641</td>
         <td>Boreas</td>
         <td>Tornadus</td>
     </tr>
     <tr>
-        <td>642</td>
+        <td>0642</td>
         <td>Fulguris</td>
         <td>Thundurus</td>
     </tr>
     <tr>
-        <td>643</td>
+        <td>0643</td>
         <td>Reshiram</td>
         <td>Reshiram</td>
     </tr>
     <tr>
-        <td>644</td>
+        <td>0644</td>
         <td>Zekrom</td>
         <td>Zekrom</td>
     </tr>
     <tr>
-        <td>645</td>
+        <td>0645</td>
         <td>Demeteros</td>
         <td>Landorus</td>
     </tr>
     <tr>
-        <td>646</td>
+        <td>0646</td>
         <td>Kyurem</td>
         <td>Kyurem</td>
     </tr>
     <tr>
-        <td>647</td>
+        <td>0647</td>
         <td>Keldeo</td>
         <td>Keldeo</td>
     </tr>
     <tr>
-        <td>648</td>
+        <td>0648</td>
         <td>Meloetta</td>
         <td>Meloetta</td>
     </tr>
     <tr>
-        <td>649</td>
+        <td>0649</td>
         <td>Genesect</td>
         <td>Genesect</td>
     </tr>
     <tr>
-        <td>650</td>
+        <td>0650</td>
         <td>Marisson</td>
         <td>Chespin</td>
     </tr>
     <tr>
-        <td>651</td>
+        <td>0651</td>
         <td>Boguerisse</td>
         <td>Quilladin</td>
     </tr>
     <tr>
-        <td>652</td>
+        <td>0652</td>
         <td>Blindepique</td>
         <td>Chesnaught</td>
     </tr>
     <tr>
-        <td>653</td>
+        <td>0653</td>
         <td>Feunnec</td>
         <td>Fennekin</td>
     </tr>
     <tr>
-        <td>654</td>
+        <td>0654</td>
         <td>Roussil</td>
         <td>Braixen</td>
     </tr>
     <tr>
-        <td>655</td>
+        <td>0655</td>
         <td>Goupelin</td>
         <td>Delphox</td>
     </tr>
     <tr>
-        <td>656</td>
+        <td>0656</td>
         <td>Grenousse</td>
         <td>Froakie</td>
     </tr>
     <tr>
-        <td>657</td>
+        <td>0657</td>
         <td>Croaporal</td>
         <td>Frogadier</td>
     </tr>
     <tr>
-        <td>658</td>
+        <td>0658</td>
         <td>Amphinobi</td>
         <td>Greninja</td>
     </tr>
     <tr>
-        <td>659</td>
+        <td>0659</td>
         <td>Sapereau</td>
         <td>Bunnelby</td>
     </tr>
     <tr>
-        <td>660</td>
+        <td>0660</td>
         <td>Excavarenne</td>
         <td>Diggersby</td>
     </tr>
     <tr>
-        <td>661</td>
+        <td>0661</td>
         <td>Passerouge</td>
         <td>Fletchling</td>
     </tr>
     <tr>
-        <td>662</td>
+        <td>0662</td>
         <td>Braisillon</td>
         <td>Fletchinder</td>
     </tr>
     <tr>
-        <td>663</td>
+        <td>0663</td>
         <td>Flambusard</td>
         <td>Talonflame</td>
     </tr>
     <tr>
-        <td>664</td>
+        <td>0664</td>
         <td>Lepidonille</td>
         <td>Scatterbug</td>
     </tr>
     <tr>
-        <td>665</td>
+        <td>0665</td>
         <td>Peregrain</td>
         <td>Spewpa</td>
     </tr>
     <tr>
-        <td>666</td>
+        <td>0666</td>
         <td>Prismillon</td>
         <td>Vivillon</td>
     </tr>
     <tr>
-        <td>667</td>
+        <td>0667</td>
         <td>Helionceau</td>
         <td>Litleo</td>
     </tr>
     <tr>
-        <td>668</td>
+        <td>0668</td>
         <td>Nemelios</td>
         <td>Pyroar</td>
     </tr>
     <tr>
-        <td>669</td>
+        <td>0669</td>
         <td>Flabebe</td>
         <td>Flabebe</td>
     </tr>
     <tr>
-        <td>670</td>
+        <td>0670</td>
         <td>Floette</td>
         <td>Floette</td>
     </tr>
     <tr>
-        <td>671</td>
+        <td>0671</td>
         <td>Florges</td>
         <td>Florges</td>
     </tr>
     <tr>
-        <td>672</td>
+        <td>0672</td>
         <td>Cabriolaine</td>
         <td>Skiddo</td>
     </tr>
     <tr>
-        <td>673</td>
+        <td>0673</td>
         <td>Chevroum</td>
         <td>Gogoat</td>
     </tr>
     <tr>
-        <td>674</td>
+        <td>0674</td>
         <td>Pandespiegle</td>
         <td>Pancham</td>
     </tr>
     <tr>
-        <td>675</td>
+        <td>0675</td>
         <td>Pandarbare</td>
         <td>Pangoro</td>
     </tr>
     <tr>
-        <td>676</td>
+        <td>0676</td>
         <td>Couafarel</td>
         <td>Furfrou</td>
     </tr>
     <tr>
-        <td>677</td>
+        <td>0677</td>
         <td>Psystigri</td>
         <td>Espurr</td>
     </tr>
     <tr>
-        <td>678</td>
+        <td>0678</td>
         <td>Mistigrix</td>
         <td>Meowstic</td>
     </tr>
     <tr>
-        <td>679</td>
+        <td>0679</td>
         <td>Monorpale</td>
         <td>Honedge</td>
     </tr>
     <tr>
-        <td>680</td>
+        <td>0680</td>
         <td>Dimocles</td>
         <td>Doublade</td>
     </tr>
     <tr>
-        <td>681</td>
+        <td>0681</td>
         <td>Exagide</td>
         <td>Aegislash</td>
     </tr>
     <tr>
-        <td>682</td>
+        <td>0682</td>
         <td>Fluvetin</td>
         <td>Spritzee</td>
     </tr>
     <tr>
-        <td>683</td>
+        <td>0683</td>
         <td>Cocotine</td>
         <td>Aromatisse</td>
     </tr>
     <tr>
-        <td>684</td>
+        <td>0684</td>
         <td>Sucroquin</td>
         <td>Swirlix</td>
     </tr>
     <tr>
-        <td>685</td>
+        <td>0685</td>
         <td>Cupcanaille</td>
         <td>Slurpuff</td>
     </tr>
     <tr>
-        <td>686</td>
+        <td>0686</td>
         <td>Sepiatop</td>
         <td>Inkay</td>
     </tr>
     <tr>
-        <td>687</td>
+        <td>0687</td>
         <td>Sepiatroce</td>
         <td>Malamar</td>
     </tr>
     <tr>
-        <td>688</td>
+        <td>0688</td>
         <td>Opermine</td>
         <td>Binacle</td>
     </tr>
     <tr>
-        <td>689</td>
+        <td>0689</td>
         <td>Golgopathe</td>
         <td>Barbaracle</td>
     </tr>
     <tr>
-        <td>690</td>
+        <td>0690</td>
         <td>Venalgue</td>
         <td>Skrelp</td>
     </tr>
     <tr>
-        <td>691</td>
+        <td>0691</td>
         <td>Kravarech</td>
         <td>Dragalge</td>
     </tr>
     <tr>
-        <td>692</td>
+        <td>0692</td>
         <td>Flingouste</td>
         <td>Clauncher</td>
     </tr>
     <tr>
-        <td>693</td>
+        <td>0693</td>
         <td>Gamblast</td>
         <td>Clawitzer</td>
     </tr>
     <tr>
-        <td>694</td>
+        <td>0694</td>
         <td>Galvaran</td>
         <td>Helioptile</td>
     </tr>
     <tr>
-        <td>695</td>
+        <td>0695</td>
         <td>Iguolta</td>
         <td>Heliolisk</td>
     </tr>
     <tr>
-        <td>696</td>
+        <td>0696</td>
         <td>Ptyranidur</td>
         <td>Tyrunt</td>
     </tr>
     <tr>
-        <td>697</td>
+        <td>0697</td>
         <td>Rexillius</td>
         <td>Tyrantrum</td>
     </tr>
     <tr>
-        <td>698</td>
+        <td>0698</td>
         <td>Amagara</td>
         <td>Amaura</td>
     </tr>
     <tr>
-        <td>699</td>
+        <td>0699</td>
         <td>Dragmara</td>
         <td>Aurorus</td>
     </tr>
     <tr>
-        <td>700</td>
+        <td>0700</td>
         <td>Nymphali</td>
         <td>Sylveon</td>
     </tr>
     <tr>
-        <td>701</td>
+        <td>0701</td>
         <td>Brutalibre</td>
         <td>Hawlucha</td>
     </tr>
     <tr>
-        <td>702</td>
+        <td>0702</td>
         <td>Dedenne</td>
         <td>Dedenne</td>
     </tr>
     <tr>
-        <td>703</td>
+        <td>0703</td>
         <td>Strassie</td>
         <td>Carbink</td>
     </tr>
     <tr>
-        <td>704</td>
+        <td>0704</td>
         <td>Mucuscule</td>
         <td>Goomy</td>
     </tr>
     <tr>
-        <td>705</td>
+        <td>0705</td>
         <td>Colimucus</td>
         <td>Sliggoo</td>
     </tr>
     <tr>
-        <td>706</td>
+        <td>0706</td>
         <td>Muplodocus</td>
         <td>Goodra</td>
     </tr>
     <tr>
-        <td>707</td>
+        <td>0707</td>
         <td>Trousselin</td>
         <td>Klefki</td>
     </tr>
     <tr>
-        <td>708</td>
+        <td>0708</td>
         <td>Brocelome</td>
         <td>Phantump</td>
     </tr>
     <tr>
-        <td>709</td>
+        <td>0709</td>
         <td>Desseliande</td>
         <td>Trevenant</td>
     </tr>
     <tr>
-        <td>710</td>
+        <td>0710</td>
         <td>Pitrouille</td>
         <td>Pumpkaboo</td>
     </tr>
     <tr>
-        <td>711</td>
+        <td>0711</td>
         <td>Banshitrouye</td>
         <td>Gourgeist</td>
     </tr>
     <tr>
-        <td>712</td>
+        <td>0712</td>
         <td>Grelacon</td>
         <td>Bergmite</td>
     </tr>
     <tr>
-        <td>713</td>
+        <td>0713</td>
         <td>Seracrawl</td>
         <td>Avalugg</td>
     </tr>
     <tr>
-        <td>714</td>
+        <td>0714</td>
         <td>Sonistrelle</td>
         <td>Noibat</td>
     </tr>
     <tr>
-        <td>715</td>
+        <td>0715</td>
         <td>Bruyverne</td>
         <td>Noivern</td>
     </tr>
     <tr>
-        <td>716</td>
+        <td>0716</td>
         <td>Xerneas</td>
         <td>Xerneas</td>
     </tr>
     <tr>
-        <td>717</td>
+        <td>0717</td>
         <td>Yveltal</td>
         <td>Yveltal</td>
     </tr>
     <tr>
-        <td>718</td>
+        <td>0718</td>
         <td>Zygarde</td>
         <td>Zygarde</td>
     </tr>
     <tr>
-        <td>719</td>
+        <td>0719</td>
         <td>Diancie</td>
         <td>Diancie</td>
     </tr>
     <tr>
-        <td>720</td>
+        <td>0720</td>
         <td>Hoopa</td>
         <td>Hoopa</td>
     </tr>
     <tr>
-        <td>721</td>
+        <td>0721</td>
         <td>Volcanion</td>
         <td>Volcanion</td>
     </tr>
     <tr>
-        <td>722</td>
+        <td>0722</td>
         <td>Brindibou</td>
         <td>Rowlet</td>
     </tr>
     <tr>
-        <td>723</td>
+        <td>0723</td>
         <td>Effleche</td>
         <td>Dartrix</td>
     </tr>
     <tr>
-        <td>724</td>
+        <td>0724</td>
         <td>Archeduc</td>
         <td>Decidueye</td>
     </tr>
     <tr>
-        <td>725</td>
+        <td>0725</td>
         <td>Flamiaou</td>
         <td>Litten</td>
     </tr>
     <tr>
-        <td>726</td>
+        <td>0726</td>
         <td>Matoufeu</td>
         <td>Torracat</td>
     </tr>
     <tr>
-        <td>727</td>
+        <td>0727</td>
         <td>Felinferno</td>
         <td>Incineroar</td>
     </tr>
     <tr>
-        <td>728</td>
+        <td>0728</td>
         <td>Otaquin</td>
         <td>Popplio</td>
     </tr>
     <tr>
-        <td>729</td>
+        <td>0729</td>
         <td>Otarlette</td>
         <td>Brionne</td>
     </tr>
     <tr>
-        <td>730</td>
+        <td>0730</td>
         <td>Oratoria</td>
         <td>Primarina</td>
     </tr>
     <tr>
-        <td>731</td>
+        <td>0731</td>
         <td>Picassaut</td>
         <td>Pikipek</td>
     </tr>
     <tr>
-        <td>732</td>
+        <td>0732</td>
         <td>Piclairon</td>
         <td>Trumbeak</td>
     </tr>
     <tr>
-        <td>733</td>
+        <td>0733</td>
         <td>Bazoucan</td>
         <td>Toucannon</td>
     </tr>
     <tr>
-        <td>734</td>
+        <td>0734</td>
         <td>Manglouton</td>
         <td>Yungoos</td>
     </tr>
     <tr>
-        <td>735</td>
+        <td>0735</td>
         <td>Argouste</td>
         <td>Gumshoos</td>
     </tr>
     <tr>
-        <td>736</td>
+        <td>0736</td>
         <td>Larvibule</td>
         <td>Grubbin</td>
     </tr>
     <tr>
-        <td>737</td>
+        <td>0737</td>
         <td>Chrysapile</td>
         <td>Charjabug</td>
     </tr>
     <tr>
-        <td>738</td>
+        <td>0738</td>
         <td>Lucanon</td>
         <td>Vikavolt</td>
     </tr>
     <tr>
-        <td>739</td>
+        <td>0739</td>
         <td>Crabagarre</td>
         <td>Crabrawler</td>
     </tr>
     <tr>
-        <td>740</td>
+        <td>0740</td>
         <td>Crabominable</td>
         <td>Crabominable</td>
     </tr>
     <tr>
-        <td>741</td>
+        <td>0741</td>
         <td>Plumeline</td>
         <td>Oricorio</td>
     </tr>
     <tr>
-        <td>742</td>
+        <td>0742</td>
         <td>Bombydou</td>
         <td>Cutiefly</td>
     </tr>
     <tr>
-        <td>743</td>
+        <td>0743</td>
         <td>Rubombelle</td>
         <td>Ribombee</td>
     </tr>
     <tr>
-        <td>744</td>
+        <td>0744</td>
         <td>Rocabot</td>
         <td>Rockruff</td>
     </tr>
     <tr>
-        <td>745</td>
+        <td>0745</td>
         <td>Lougaroc</td>
         <td>Lycanroc</td>
     </tr>
     <tr>
-        <td>746</td>
+        <td>0746</td>
         <td>Froussardine</td>
         <td>Wishiwashi</td>
     </tr>
     <tr>
-        <td>747</td>
+        <td>0747</td>
         <td>Vorasterie</td>
         <td>Mareanie</td>
     </tr>
     <tr>
-        <td>748</td>
+        <td>0748</td>
         <td>Predasterie</td>
         <td>Toxapex</td>
     </tr>
     <tr>
-        <td>749</td>
+        <td>0749</td>
         <td>Tiboudet</td>
         <td>Mudbray</td>
     </tr>
     <tr>
-        <td>750</td>
+        <td>0750</td>
         <td>Bourrinos</td>
         <td>Mudsdale</td>
     </tr>
     <tr>
-        <td>751</td>
+        <td>0751</td>
         <td>Araqua</td>
         <td>Dewpider</td>
     </tr>
     <tr>
-        <td>752</td>
+        <td>0752</td>
         <td>Tarenbulle</td>
         <td>Araquanid</td>
     </tr>
     <tr>
-        <td>753</td>
+        <td>0753</td>
         <td>Mimantis</td>
         <td>Fomantis</td>
     </tr>
     <tr>
-        <td>754</td>
+        <td>0754</td>
         <td>Floramantis</td>
         <td>Lurantis</td>
     </tr>
     <tr>
-        <td>755</td>
+        <td>0755</td>
         <td>Spododo</td>
         <td>Morelull</td>
     </tr>
     <tr>
-        <td>756</td>
+        <td>0756</td>
         <td>Lampignon</td>
         <td>Shiinotic</td>
     </tr>
     <tr>
-        <td>757</td>
+        <td>0757</td>
         <td>Tritox</td>
         <td>Salandit</td>
     </tr>
     <tr>
-        <td>758</td>
+        <td>0758</td>
         <td>Malamandre</td>
         <td>Salazzle</td>
     </tr>
     <tr>
-        <td>759</td>
+        <td>0759</td>
         <td>Nounourson</td>
         <td>Stufful</td>
     </tr>
     <tr>
-        <td>760</td>
+        <td>0760</td>
         <td>Chelours</td>
         <td>Bewear</td>
     </tr>
     <tr>
-        <td>761</td>
+        <td>0761</td>
         <td>Croquine</td>
         <td>Bounsweet</td>
     </tr>
     <tr>
-        <td>762</td>
+        <td>0762</td>
         <td>Candine</td>
         <td>Steenee</td>
     </tr>
     <tr>
-        <td>763</td>
+        <td>0763</td>
         <td>Sucreine</td>
         <td>Tsareena</td>
     </tr>
     <tr>
-        <td>764</td>
+        <td>0764</td>
         <td>Guerilande</td>
         <td>Comfey</td>
     </tr>
     <tr>
-        <td>765</td>
+        <td>0765</td>
         <td>Gouroutan</td>
         <td>Oranguru</td>
     </tr>
     <tr>
-        <td>766</td>
+        <td>0766</td>
         <td>Quartermac</td>
         <td>Passimian</td>
     </tr>
     <tr>
-        <td>767</td>
+        <td>0767</td>
         <td>Sovkipou</td>
         <td>Wimpod</td>
     </tr>
     <tr>
-        <td>768</td>
+        <td>0768</td>
         <td>Sarmurai</td>
         <td>Golisopod</td>
     </tr>
     <tr>
-        <td>769</td>
+        <td>0769</td>
         <td>Bacabouh</td>
         <td>Sandygast</td>
     </tr>
     <tr>
-        <td>770</td>
+        <td>0770</td>
         <td>Trepassable</td>
         <td>Palossand</td>
     </tr>
     <tr>
-        <td>771</td>
+        <td>0771</td>
         <td>Concombaffe</td>
         <td>Pyukumuku</td>
     </tr>
     <tr>
-        <td>772</td>
+        <td>0772</td>
         <td>Type:0</td>
         <td>Type: Null</td>
     </tr>
     <tr>
-        <td>773</td>
+        <td>0773</td>
         <td>Silvallie</td>
         <td>Silvally</td>
     </tr>
     <tr>
-        <td>774</td>
+        <td>0774</td>
         <td>Meteno</td>
         <td>Minior</td>
     </tr>
     <tr>
-        <td>775</td>
+        <td>0775</td>
         <td>Dodoala</td>
         <td>Komala</td>
     </tr>
     <tr>
-        <td>776</td>
+        <td>0776</td>
         <td>Boumata</td>
         <td>Turtonator</td>
     </tr>
     <tr>
-        <td>777</td>
+        <td>0777</td>
         <td>Togedemaru</td>
         <td>Togedemaru</td>
     </tr>
     <tr>
-        <td>778</td>
+        <td>0778</td>
         <td>Mimiqui</td>
         <td>Mimikyu</td>
     </tr>
     <tr>
-        <td>779</td>
+        <td>0779</td>
         <td>Denticrisse</td>
         <td>Bruxish</td>
     </tr>
     <tr>
-        <td>780</td>
+        <td>0780</td>
         <td>Draieul</td>
         <td>Drampa</td>
     </tr>
     <tr>
-        <td>781</td>
+        <td>0781</td>
         <td>Sinistrail</td>
         <td>Dhelmise</td>
     </tr>
     <tr>
-        <td>782</td>
+        <td>0782</td>
         <td>Bebecaille</td>
         <td>Jangmo-o</td>
     </tr>
     <tr>
-        <td>783</td>
+        <td>0783</td>
         <td>ecaid</td>
         <td>Hakamo-o</td>
     </tr>
     <tr>
-        <td>784</td>
+        <td>0784</td>
         <td>ekaiser</td>
         <td>Kommo-o</td>
     </tr>
     <tr>
-        <td>785</td>
+        <td>0785</td>
         <td>Tokorico</td>
         <td>Tapu Koko</td>
     </tr>
     <tr>
-        <td>786</td>
+        <td>0786</td>
         <td>Tokopiyon</td>
         <td>Tapu Lele</td>
     </tr>
     <tr>
-        <td>787</td>
+        <td>0787</td>
         <td>Tokotoro</td>
         <td>Tapu Bulu</td>
     </tr>
     <tr>
-        <td>788</td>
+        <td>0788</td>
         <td>Tokopisco</td>
         <td>Tapu Fini</td>
     </tr>
     <tr>
-        <td>789</td>
+        <td>0789</td>
         <td>Cosmog</td>
         <td>Cosmog</td>
     </tr>
     <tr>
-        <td>790</td>
+        <td>0790</td>
         <td>Cosmovum</td>
         <td>Cosmoem</td>
     </tr>
     <tr>
-        <td>791</td>
+        <td>0791</td>
         <td>Solgaleo</td>
         <td>Solgaleo</td>
     </tr>
     <tr>
-        <td>792</td>
+        <td>0792</td>
         <td>Lunala</td>
         <td>Lunala</td>
     </tr>
     <tr>
-        <td>793</td>
+        <td>0793</td>
         <td>Zeroid</td>
         <td>Nihilego</td>
     </tr>
     <tr>
-        <td>794</td>
+        <td>0794</td>
         <td>Mouscoto</td>
         <td>Buzzwole</td>
     </tr>
     <tr>
-        <td>795</td>
+        <td>0795</td>
         <td>Cancrelove</td>
         <td>Pheromosa</td>
     </tr>
     <tr>
-        <td>796</td>
+        <td>0796</td>
         <td>Cablifere</td>
         <td>Xurkitree</td>
     </tr>
     <tr>
-        <td>797</td>
+        <td>0797</td>
         <td>Bamboiselle</td>
         <td>Celesteela</td>
     </tr>
     <tr>
-        <td>798</td>
+        <td>0798</td>
         <td>Katagami</td>
         <td>Kartana</td>
     </tr>
     <tr>
-        <td>799</td>
+        <td>0799</td>
         <td>Engloutyran</td>
         <td>Guzzlord</td>
     </tr>
     <tr>
-        <td>800</td>
+        <td>0800</td>
         <td>Necrozma</td>
         <td>Necrozma</td>
     </tr>
     <tr>
-        <td>801</td>
+        <td>0801</td>
         <td>Magearna</td>
         <td>Magearna</td>
     </tr>
     <tr>
-        <td>802</td>
+        <td>0802</td>
         <td>Marshadow</td>
         <td>Marshadow</td>
     </tr>
     <tr>
-        <td>803</td>
+        <td>0803</td>
         <td>Vemini</td>
         <td>Poipole</td>
     </tr>
     <tr>
-        <td>804</td>
+        <td>0804</td>
         <td>Mandrillon</td>
         <td>Naganadel</td>
     </tr>
     <tr>
-        <td>805</td>
+        <td>0805</td>
         <td>Ama-Ama</td>
         <td>Stakataka</td>
     </tr>
     <tr>
-        <td>806</td>
+        <td>0806</td>
         <td>Pierroteknik</td>
         <td>Blacephalon</td>
     </tr>
     <tr>
-        <td>807</td>
+        <td>0807</td>
         <td>Zeraora</td>
         <td>Zeraora</td>
     </tr>
     <tr>
-        <td>808</td>
+        <td>0808</td>
         <td>Meltan</td>
         <td>Meltan</td>
     </tr>
     <tr>
-        <td>809</td>
+        <td>0809</td>
         <td>Melmetal</td>
         <td>Melmetal</td>
     </tr>
     <tr>
-        <td>810</td>
+        <td>0810</td>
         <td>Ouistempo</td>
         <td>Grookey</td>
     </tr>
     <tr>
-        <td>811</td>
+        <td>0811</td>
         <td>Badabouin</td>
         <td>Thwackey</td>
     </tr>
     <tr>
-        <td>812</td>
+        <td>0812</td>
         <td>Gorythmic</td>
         <td>Rillaboom</td>
     </tr>
     <tr>
-        <td>813</td>
+        <td>0813</td>
         <td>Flambino</td>
         <td>Scorbunny</td>
     </tr>
     <tr>
-        <td>814</td>
+        <td>0814</td>
         <td>Lapyro</td>
         <td>Raboot</td>
     </tr>
     <tr>
-        <td>815</td>
+        <td>0815</td>
         <td>Pyrobut</td>
         <td>Cinderace</td>
     </tr>
     <tr>
-        <td>816</td>
+        <td>0816</td>
         <td>Larmeleon</td>
         <td>Sobble</td>
     </tr>
     <tr>
-        <td>817</td>
+        <td>0817</td>
         <td>Arrozard</td>
         <td>Drizzile</td>
     </tr>
     <tr>
-        <td>818</td>
+        <td>0818</td>
         <td>Lezargus</td>
         <td>Inteleon</td>
     </tr>
     <tr>
-        <td>819</td>
+        <td>0819</td>
         <td>Rongourmand</td>
         <td>Skwovet</td>
     </tr>
     <tr>
-        <td>820</td>
+        <td>0820</td>
         <td>Rongrigou</td>
         <td>Greedent</td>
     </tr>
     <tr>
-        <td>821</td>
+        <td>0821</td>
         <td>Minisange</td>
         <td>Rookidee</td>
     </tr>
     <tr>
-        <td>822</td>
+        <td>0822</td>
         <td>Bleuseille</td>
         <td>Corvisquire</td>
     </tr>
     <tr>
-        <td>823</td>
+        <td>0823</td>
         <td>Corvaillus</td>
         <td>Corviknight</td>
     </tr>
     <tr>
-        <td>824</td>
+        <td>0824</td>
         <td>Larvadar</td>
         <td>Blipbug</td>
     </tr>
     <tr>
-        <td>825</td>
+        <td>0825</td>
         <td>Coleodome</td>
         <td>Dottler</td>
     </tr>
     <tr>
-        <td>826</td>
+        <td>0826</td>
         <td>Astronelle</td>
         <td>Orbeetle</td>
     </tr>
     <tr>
-        <td>827</td>
+        <td>0827</td>
         <td>Goupilou</td>
         <td>Nickit</td>
     </tr>
     <tr>
-        <td>828</td>
+        <td>0828</td>
         <td>Roublenard</td>
         <td>Thievul</td>
     </tr>
     <tr>
-        <td>829</td>
+        <td>0829</td>
         <td>Tournicoton</td>
         <td>Gossifleur</td>
     </tr>
     <tr>
-        <td>830</td>
+        <td>0830</td>
         <td>Blancoton</td>
         <td>Eldegoss</td>
     </tr>
     <tr>
-        <td>831</td>
+        <td>0831</td>
         <td>Moumouton</td>
         <td>Wooloo</td>
     </tr>
     <tr>
-        <td>832</td>
+        <td>0832</td>
         <td>Moumouflon</td>
         <td>Dubwool</td>
     </tr>
     <tr>
-        <td>833</td>
+        <td>0833</td>
         <td>Khelocrok</td>
         <td>Chewtle</td>
     </tr>
     <tr>
-        <td>834</td>
+        <td>0834</td>
         <td>Torgamord</td>
         <td>Drednaw</td>
     </tr>
     <tr>
-        <td>835</td>
+        <td>0835</td>
         <td>Voltoutou</td>
         <td>Yamper</td>
     </tr>
     <tr>
-        <td>836</td>
+        <td>0836</td>
         <td>Fulgudog</td>
         <td>Boltund</td>
     </tr>
     <tr>
-        <td>837</td>
+        <td>0837</td>
         <td>Charbi</td>
         <td>Rolycoly</td>
     </tr>
     <tr>
-        <td>838</td>
+        <td>0838</td>
         <td>Wagomine</td>
         <td>Carkol</td>
     </tr>
     <tr>
-        <td>839</td>
+        <td>0839</td>
         <td>Monthracite</td>
         <td>Coalossal</td>
     </tr>
     <tr>
-        <td>840</td>
+        <td>0840</td>
         <td>Verpom</td>
         <td>Applin</td>
     </tr>
     <tr>
-        <td>841</td>
+        <td>0841</td>
         <td>Pomdrapi</td>
         <td>Flapple</td>
     </tr>
     <tr>
-        <td>842</td>
+        <td>0842</td>
         <td>Dratatin</td>
         <td>Appletun</td>
     </tr>
     <tr>
-        <td>843</td>
+        <td>0843</td>
         <td>Dunaja</td>
         <td>Silicobra</td>
     </tr>
     <tr>
-        <td>844</td>
+        <td>0844</td>
         <td>Dunaconda</td>
         <td>Sandaconda</td>
     </tr>
     <tr>
-        <td>845</td>
+        <td>0845</td>
         <td>Nigosier</td>
         <td>Cramorant</td>
     </tr>
     <tr>
-        <td>846</td>
+        <td>0846</td>
         <td>Embrochet</td>
         <td>Arrokuda</td>
     </tr>
     <tr>
-        <td>847</td>
+        <td>0847</td>
         <td>Hastacuda</td>
         <td>Barraskewda</td>
     </tr>
     <tr>
-        <td>848</td>
+        <td>0848</td>
         <td>Toxizap</td>
         <td>Toxel</td>
     </tr>
     <tr>
-        <td>849</td>
+        <td>0849</td>
         <td>Salarsen</td>
         <td>Toxtricity</td>
     </tr>
     <tr>
-        <td>850</td>
+        <td>0850</td>
         <td>Grillepattes</td>
         <td>Sizzlipede</td>
     </tr>
     <tr>
-        <td>851</td>
+        <td>0851</td>
         <td>Scolocendre</td>
         <td>Centiskorch</td>
     </tr>
     <tr>
-        <td>852</td>
+        <td>0852</td>
         <td>Poulpaf</td>
         <td>Clobbopus</td>
     </tr>
     <tr>
-        <td>853</td>
+        <td>0853</td>
         <td>Krakos</td>
         <td>Grapploct</td>
     </tr>
     <tr>
-        <td>854</td>
+        <td>0854</td>
         <td>Theffroi</td>
         <td>Sinistea</td>
     </tr>
     <tr>
-        <td>855</td>
+        <td>0855</td>
         <td>Polthegeist</td>
         <td>Polteageist</td>
     </tr>
     <tr>
-        <td>856</td>
+        <td>0856</td>
         <td>Bibichut</td>
         <td>Hatenna</td>
     </tr>
     <tr>
-        <td>857</td>
+        <td>0857</td>
         <td>Chapotus</td>
         <td>Hattrem</td>
     </tr>
     <tr>
-        <td>858</td>
+        <td>0858</td>
         <td>Sorcilence</td>
         <td>Hatterene</td>
     </tr>
     <tr>
-        <td>859</td>
+        <td>0859</td>
         <td>Grimalin</td>
         <td>Impidimp</td>
     </tr>
     <tr>
-        <td>860</td>
+        <td>0860</td>
         <td>Fourbelin</td>
         <td>Morgrem</td>
     </tr>
     <tr>
-        <td>861</td>
+        <td>0861</td>
         <td>Angoliath</td>
         <td>Grimmsnarl</td>
     </tr>
     <tr>
-        <td>862</td>
+        <td>0862</td>
         <td>Ixon</td>
         <td>Obstagoon</td>
     </tr>
     <tr>
-        <td>863</td>
+        <td>0863</td>
         <td>Berserkatt</td>
         <td>Perrserker</td>
     </tr>
     <tr>
-        <td>864</td>
+        <td>0864</td>
         <td>Corayome</td>
         <td>Cursola</td>
     </tr>
     <tr>
-        <td>865</td>
+        <td>0865</td>
         <td>Palarticho</td>
         <td>Sirfetch&#39;d</td>
     </tr>
     <tr>
-        <td>866</td>
+        <td>0866</td>
         <td>M. Glaquette</td>
         <td>Mr. Rime</td>
     </tr>
     <tr>
-        <td>867</td>
+        <td>0867</td>
         <td>Tutetekri</td>
         <td>Runerigus</td>
     </tr>
     <tr>
-        <td>868</td>
+        <td>0868</td>
         <td>Cremy</td>
         <td>Milcery</td>
     </tr>
     <tr>
-        <td>869</td>
+        <td>0869</td>
         <td>Charmilly</td>
         <td>Alcremie</td>
     </tr>
     <tr>
-        <td>870</td>
+        <td>0870</td>
         <td>Hexadron</td>
         <td>Falinks</td>
     </tr>
     <tr>
-        <td>871</td>
+        <td>0871</td>
         <td>Wattapik</td>
         <td>Pincurchin</td>
     </tr>
     <tr>
-        <td>872</td>
+        <td>0872</td>
         <td>Frissonille</td>
         <td>Snom</td>
     </tr>
     <tr>
-        <td>873</td>
+        <td>0873</td>
         <td>Beldeneige</td>
         <td>Frosmoth</td>
     </tr>
     <tr>
-        <td>874</td>
+        <td>0874</td>
         <td>Dolman</td>
         <td>Stonjourner</td>
     </tr>
     <tr>
-        <td>875</td>
+        <td>0875</td>
         <td>Bekaglacon</td>
         <td>Eiscue</td>
     </tr>
     <tr>
-        <td>876</td>
+        <td>0876</td>
         <td>Wimessir</td>
         <td>Indeedee</td>
     </tr>
     <tr>
-        <td>877</td>
+        <td>0877</td>
         <td>Morpeko</td>
         <td>Morpeko</td>
     </tr>
     <tr>
-        <td>878</td>
+        <td>0878</td>
         <td>Charibari</td>
         <td>Cufant</td>
     </tr>
     <tr>
-        <td>879</td>
+        <td>0879</td>
         <td>Pachyradjah</td>
         <td>Copperajah</td>
     </tr>
     <tr>
-        <td>880</td>
+        <td>0880</td>
         <td>Galvagon</td>
         <td>Dracozolt</td>
     </tr>
     <tr>
-        <td>881</td>
+        <td>0881</td>
         <td>Galvagla</td>
         <td>Arctozolt</td>
     </tr>
     <tr>
-        <td>882</td>
+        <td>0882</td>
         <td>Hydragon</td>
         <td>Dracovish</td>
     </tr>
     <tr>
-        <td>883</td>
+        <td>0883</td>
         <td>Hydragla</td>
         <td>Arctovish</td>
     </tr>
     <tr>
-        <td>884</td>
+        <td>0884</td>
         <td>Duralugon</td>
         <td>Duraludon</td>
     </tr>
     <tr>
-        <td>885</td>
+        <td>0885</td>
         <td>Fantyrm</td>
         <td>Dreepy</td>
     </tr>
     <tr>
-        <td>886</td>
+        <td>0886</td>
         <td>Dispareptil</td>
         <td>Drakloak</td>
     </tr>
     <tr>
-        <td>887</td>
+        <td>0887</td>
         <td>Lanssorien</td>
         <td>Dragapult</td>
     </tr>
     <tr>
-        <td>888</td>
+        <td>0888</td>
         <td>Zacian</td>
         <td>Zacian</td>
     </tr>
     <tr>
-        <td>889</td>
+        <td>0889</td>
         <td>Zamazenta</td>
         <td>Zamazenta</td>
     </tr>
     <tr>
-        <td>890</td>
+        <td>0890</td>
         <td>ethernatos</td>
         <td>Eternatus</td>
     </tr>
     <tr>
-        <td>891</td>
+        <td>0891</td>
         <td>Wushours</td>
         <td>Kubfu</td>
     </tr>
     <tr>
-        <td>892</td>
+        <td>0892</td>
         <td>Shifours</td>
         <td>Urshifu</td>
     </tr>
     <tr>
-        <td>893</td>
+        <td>0893</td>
         <td>Zarude</td>
         <td>Zarude</td>
     </tr>
     <tr>
-        <td>894</td>
+        <td>0894</td>
         <td>Regieleki</td>
         <td>Regieleki</td>
     </tr>
     <tr>
-        <td>895</td>
+        <td>0895</td>
         <td>Regidrago</td>
         <td>Regidrago</td>
     </tr>
     <tr>
-        <td>896</td>
+        <td>0896</td>
         <td>Blizzeval</td>
         <td>Glastrier</td>
     </tr>
     <tr>
-        <td>897</td>
+        <td>0897</td>
         <td>Spectreval</td>
         <td>Spectrier</td>
     </tr>
     <tr>
-        <td>898</td>
+        <td>0898</td>
         <td>Sylveroy</td>
         <td>Calyrex</td>
     </tr>
     <tr>
-        <td>899</td>
+        <td>0899</td>
         <td>Cerbyllin</td>
         <td>Wyrdeer</td>
     </tr>
     <tr>
-        <td>900</td>
+        <td>0900</td>
         <td>Hachecateur</td>
         <td>Kleavor</td>
     </tr>
     <tr>
-        <td>901</td>
+        <td>0901</td>
         <td>Ursaking</td>
         <td>Ursaluna</td>
     </tr>
     <tr>
-        <td>902</td>
+        <td>0902</td>
         <td>Paragruel</td>
         <td>Basculegion</td>
     </tr>
     <tr>
-        <td>903</td>
+        <td>0903</td>
         <td>Farfurex</td>
         <td>Sneasler</td>
     </tr>
     <tr>
-        <td>904</td>
+        <td>0904</td>
         <td>Qwilpik</td>
         <td>Overqwil</td>
     </tr>
     <tr>
-        <td>905</td>
+        <td>0905</td>
         <td>Amovenus</td>
         <td>Enamorus</td>
     </tr>
     <tr>
-        <td>906</td>
+        <td>0906</td>
         <td>Poussacha</td>
         <td>Sprigatito</td>
     </tr>
     <tr>
-        <td>907</td>
+        <td>0907</td>
         <td>Matourgeon</td>
         <td>Floragato</td>
     </tr>
     <tr>
-        <td>908</td>
+        <td>0908</td>
         <td>Miascarade</td>
         <td>Meowscarada</td>
     </tr>
     <tr>
-        <td>909</td>
+        <td>0909</td>
         <td>Chochodile</td>
         <td>Fuecoco</td>
     </tr>
     <tr>
-        <td>910</td>
+        <td>0910</td>
         <td>Crocogril</td>
         <td>Crocalor</td>
     </tr>
     <tr>
-        <td>911</td>
+        <td>0911</td>
         <td>Flamigator</td>
         <td>Skeledirge</td>
     </tr>
     <tr>
-        <td>912</td>
+        <td>0912</td>
         <td>Coiffeton</td>
         <td>Quaxly</td>
     </tr>
     <tr>
-        <td>913</td>
+        <td>0913</td>
         <td>Canarbello</td>
         <td>Quaxwell</td>
     </tr>
     <tr>
-        <td>914</td>
+        <td>0914</td>
         <td>Palmaval</td>
         <td>Quaquaval</td>
     </tr>
     <tr>
-        <td>915</td>
+        <td>0915</td>
         <td>Gourmelet</td>
         <td>Lechonk</td>
     </tr>
     <tr>
-        <td>916</td>
+        <td>0916</td>
         <td>Fragroin</td>
         <td>Oinkologne</td>
     </tr>
     <tr>
-        <td>917</td>
+        <td>0917</td>
         <td>Tissenboule</td>
         <td>Tarountula</td>
     </tr>
     <tr>
-        <td>918</td>
+        <td>0918</td>
         <td>Filentrappe</td>
         <td>Spidops</td>
     </tr>
     <tr>
-        <td>919</td>
+        <td>0919</td>
         <td>Lilliterelle</td>
         <td>Nymble</td>
     </tr>
     <tr>
-        <td>920</td>
+        <td>0920</td>
         <td>Gambex</td>
         <td>Lokix</td>
     </tr>
     <tr>
-        <td>921</td>
+        <td>0921</td>
         <td>Pohm</td>
         <td>Pawmi</td>
     </tr>
     <tr>
-        <td>922</td>
+        <td>0922</td>
         <td>Pohmotte</td>
         <td>Pawmo</td>
     </tr>
     <tr>
-        <td>923</td>
+        <td>0923</td>
         <td>Pohmarmotte</td>
         <td>Pawmot</td>
     </tr>
     <tr>
-        <td>924</td>
+        <td>0924</td>
         <td>Compagnol</td>
         <td>Tandemaus</td>
     </tr>
     <tr>
-        <td>925</td>
+        <td>0925</td>
         <td>Famignol</td>
         <td>Maushold</td>
     </tr>
     <tr>
-        <td>926</td>
+        <td>0926</td>
         <td>Patachiot</td>
         <td>Fidough</td>
     </tr>
     <tr>
-        <td>927</td>
+        <td>0927</td>
         <td>Briochien</td>
         <td>Dachsbun</td>
     </tr>
     <tr>
-        <td>928</td>
+        <td>0928</td>
         <td>Olivini</td>
         <td>Smoliv</td>
     </tr>
     <tr>
-        <td>929</td>
+        <td>0929</td>
         <td>Olivado</td>
         <td>Dolliv</td>
     </tr>
     <tr>
-        <td>930</td>
+        <td>0930</td>
         <td>Arboliva</td>
         <td>Arboliva</td>
     </tr>
     <tr>
-        <td>931</td>
+        <td>0931</td>
         <td>Tapatoes</td>
         <td>Squawkabilly</td>
     </tr>
     <tr>
-        <td>932</td>
+        <td>0932</td>
         <td>Selutin</td>
         <td>Nacli</td>
     </tr>
     <tr>
-        <td>933</td>
+        <td>0933</td>
         <td>Amassel</td>
         <td>Naclstack</td>
     </tr>
     <tr>
-        <td>934</td>
+        <td>0934</td>
         <td>Gigansel</td>
         <td>Garganacl</td>
     </tr>
     <tr>
-        <td>935</td>
+        <td>0935</td>
         <td>Charbambin</td>
         <td>Charcadet</td>
     </tr>
     <tr>
-        <td>936</td>
+        <td>0936</td>
         <td>Carmadura</td>
         <td>Armarouge</td>
     </tr>
     <tr>
-        <td>937</td>
+        <td>0937</td>
         <td>Malvalame</td>
         <td>Ceruledge</td>
     </tr>
     <tr>
-        <td>938</td>
+        <td>0938</td>
         <td>Tetampoule</td>
         <td>Tadbulb</td>
     </tr>
     <tr>
-        <td>939</td>
+        <td>0939</td>
         <td>Ampibidou</td>
         <td>Bellibolt</td>
     </tr>
     <tr>
-        <td>940</td>
+        <td>0940</td>
         <td>Zapetrel</td>
         <td>Wattrel</td>
     </tr>
     <tr>
-        <td>941</td>
+        <td>0941</td>
         <td>Fulgulairo</td>
         <td>Kilowattrel</td>
     </tr>
     <tr>
-        <td>942</td>
+        <td>0942</td>
         <td>Grondogue</td>
         <td>Maschiff</td>
     </tr>
     <tr>
-        <td>943</td>
+        <td>0943</td>
         <td>Dogrino</td>
         <td>Mabosstiff</td>
     </tr>
     <tr>
-        <td>944</td>
+        <td>0944</td>
         <td>Gribouraigne</td>
         <td>Shroodle</td>
     </tr>
     <tr>
-        <td>945</td>
+        <td>0945</td>
         <td>Tag-Tag</td>
         <td>Grafaiai</td>
     </tr>
     <tr>
-        <td>946</td>
+        <td>0946</td>
         <td>Virovent</td>
         <td>Bramblin</td>
     </tr>
     <tr>
-        <td>947</td>
+        <td>0947</td>
         <td>Virevorreur</td>
         <td>Brambleghast</td>
     </tr>
     <tr>
-        <td>948</td>
+        <td>0948</td>
         <td>Terracool</td>
         <td>Toedscool</td>
     </tr>
     <tr>
-        <td>949</td>
+        <td>0949</td>
         <td>Terracruel</td>
         <td>Toedscruel</td>
     </tr>
     <tr>
-        <td>950</td>
+        <td>0950</td>
         <td>Craparoi</td>
         <td>Klawf</td>
     </tr>
     <tr>
-        <td>951</td>
+        <td>0951</td>
         <td>Pimito</td>
         <td>Capsakid</td>
     </tr>
     <tr>
-        <td>952</td>
+        <td>0952</td>
         <td>Scovilain</td>
         <td>Scovillain</td>
     </tr>
     <tr>
-        <td>953</td>
+        <td>0953</td>
         <td>Leboulerou</td>
         <td>Rellor</td>
     </tr>
     <tr>
-        <td>954</td>
+        <td>0954</td>
         <td>Berasca</td>
         <td>Rabsca</td>
     </tr>
     <tr>
-        <td>955</td>
+        <td>0955</td>
         <td>Flotillon</td>
         <td>Flittle</td>
     </tr>
     <tr>
-        <td>956</td>
+        <td>0956</td>
         <td>Cleopsytra</td>
         <td>Espathra</td>
     </tr>
     <tr>
-        <td>957</td>
+        <td>0957</td>
         <td>Forgerette</td>
         <td>Tinkatink</td>
     </tr>
     <tr>
-        <td>958</td>
+        <td>0958</td>
         <td>Forgella</td>
         <td>Tinkatuff</td>
     </tr>
     <tr>
-        <td>959</td>
+        <td>0959</td>
         <td>Forgelina</td>
         <td>Tinkaton</td>
     </tr>
     <tr>
-        <td>960</td>
+        <td>0960</td>
         <td>Taupikeau</td>
         <td>Wiglett</td>
     </tr>
     <tr>
-        <td>961</td>
+        <td>0961</td>
         <td>Triopikeau</td>
         <td>Wugtrio</td>
     </tr>
     <tr>
-        <td>962</td>
+        <td>0962</td>
         <td>Lestombaile</td>
         <td>Bombirdier</td>
     </tr>
     <tr>
-        <td>963</td>
+        <td>0963</td>
         <td>Dofin</td>
         <td>Finizen</td>
     </tr>
     <tr>
-        <td>964</td>
+        <td>0964</td>
         <td>Superdofin</td>
         <td>Palafin</td>
     </tr>
     <tr>
-        <td>965</td>
+        <td>0965</td>
         <td>Vrombi</td>
         <td>Varoom</td>
     </tr>
     <tr>
-        <td>966</td>
+        <td>0966</td>
         <td>Vrombotor</td>
         <td>Revavroom</td>
     </tr>
     <tr>
-        <td>967</td>
+        <td>0967</td>
         <td>Motorizard</td>
         <td>Cyclizar</td>
     </tr>
     <tr>
-        <td>968</td>
+        <td>0968</td>
         <td>Ferdeter</td>
         <td>Orthworm</td>
     </tr>
     <tr>
-        <td>969</td>
+        <td>0969</td>
         <td>Germeclat</td>
         <td>Glimmet</td>
     </tr>
     <tr>
-        <td>970</td>
+        <td>0970</td>
         <td>Floreclat</td>
         <td>Glimmora</td>
     </tr>
     <tr>
-        <td>971</td>
+        <td>0971</td>
         <td>Toutombe</td>
         <td>Greavard</td>
     </tr>
     <tr>
-        <td>972</td>
+        <td>0972</td>
         <td>Tomberro</td>
         <td>Houndstone</td>
     </tr>
     <tr>
-        <td>973</td>
+        <td>0973</td>
         <td>Flamenroule</td>
         <td>Flamigo</td>
     </tr>
     <tr>
-        <td>974</td>
+        <td>0974</td>
         <td>Pietace</td>
         <td>Cetoddle</td>
     </tr>
     <tr>
-        <td>975</td>
+        <td>0975</td>
         <td>Balbaleze</td>
         <td>Cetitan</td>
     </tr>
     <tr>
-        <td>976</td>
+        <td>0976</td>
         <td>Delestin</td>
         <td>Veluza</td>
     </tr>
     <tr>
-        <td>977</td>
+        <td>0977</td>
         <td>Oyacata</td>
         <td>Dondozo</td>
     </tr>
     <tr>
-        <td>978</td>
+        <td>0978</td>
         <td>Nigirigon</td>
         <td>Tatsugiri</td>
     </tr>
     <tr>
-        <td>979</td>
+        <td>0979</td>
         <td>Courrousinge</td>
         <td>Annihilape</td>
     </tr>
     <tr>
-        <td>980</td>
+        <td>0980</td>
         <td>Terraiste</td>
         <td>Clodsire</td>
     </tr>
     <tr>
-        <td>981</td>
+        <td>0981</td>
         <td>Farigiraf</td>
         <td>Farigiraf</td>
     </tr>
     <tr>
-        <td>982</td>
+        <td>0982</td>
         <td>Deusolourdo</td>
         <td>Dudunsparce</td>
     </tr>
     <tr>
-        <td>983</td>
+        <td>0983</td>
         <td>Scalpereur</td>
         <td>Kingambit</td>
     </tr>
     <tr>
-        <td>984</td>
+        <td>0984</td>
         <td>Fort-Ivoire</td>
         <td>Great Tusk</td>
     </tr>
     <tr>
-        <td>985</td>
+        <td>0985</td>
         <td>Hurle-Queue</td>
         <td>Scream Tail</td>
     </tr>
     <tr>
-        <td>986</td>
+        <td>0986</td>
         <td>Fongus-Furie</td>
         <td>Brute Bonnet</td>
     </tr>
     <tr>
-        <td>987</td>
+        <td>0987</td>
         <td>Flotte-Meche</td>
         <td>Flutter Mane</td>
     </tr>
     <tr>
-        <td>988</td>
+        <td>0988</td>
         <td>Rampe-Ailes</td>
         <td>Slither Wing</td>
     </tr>
     <tr>
-        <td>989</td>
+        <td>0989</td>
         <td>Pelage-Sable</td>
         <td>Sandy Shocks</td>
     </tr>
     <tr>
-        <td>990</td>
+        <td>0990</td>
         <td>Roue-de-Fer</td>
         <td>Iron Treads</td>
     </tr>
     <tr>
-        <td>991</td>
+        <td>0991</td>
         <td>Hotte-de-Fer</td>
         <td>Iron Bundle</td>
     </tr>
     <tr>
-        <td>992</td>
+        <td>0992</td>
         <td>Paume-de-Fer</td>
         <td>Iron Hands</td>
     </tr>
     <tr>
-        <td>993</td>
+        <td>0993</td>
         <td>Tetes-de-Fer</td>
         <td>Iron Jugulis</td>
     </tr>
     <tr>
-        <td>994</td>
+        <td>0994</td>
         <td>Mite-de-Fer</td>
         <td>Iron Moth</td>
     </tr>
     <tr>
-        <td>995</td>
+        <td>0995</td>
         <td>epine-de-Fer</td>
         <td>Iron Thorns</td>
     </tr>
     <tr>
-        <td>996</td>
+        <td>0996</td>
         <td>Frigodo</td>
         <td>Frigibax</td>
     </tr>
     <tr>
-        <td>997</td>
+        <td>0997</td>
         <td>Cryodo</td>
         <td>Arctibax</td>
     </tr>
     <tr>
-        <td>998</td>
+        <td>0998</td>
         <td>Glaivodo</td>
         <td>Baxcalibur</td>
     </tr>
     <tr>
-        <td>999</td>
+        <td>0999</td>
         <td>Mordudor</td>
         <td>Gimmighoul</td>
     </tr>
