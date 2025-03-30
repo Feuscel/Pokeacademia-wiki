@@ -473,12 +473,13 @@ heroImage: '/pokedex.jpg'
         <td>0092</td>
         <td>Fantominus</td>
         <td>Gastly</td>
-        <td>Drops larmes de ghast dans le nether</td>
+        <td><a href="/Wiki/obtenirlarmeghast/">Drops larmes de ghast dans le nether</a></td>
     </tr>
     <tr>
         <td>0093</td>
         <td>Spectrum</td>
         <td>Haunter</td>
+        <td>Drops Larmes de ghast dans le nether</td>
     </tr>
     <tr>
         <td>0094</td>
@@ -1929,6 +1930,7 @@ heroImage: '/pokedex.jpg'
         <td>0383</td>
         <td>Groudon</td>
         <td>Groudon</td>
+        <td>Drops étoile du nether 100%</td>
     </tr>
     <tr>
         <td>0384</td>
