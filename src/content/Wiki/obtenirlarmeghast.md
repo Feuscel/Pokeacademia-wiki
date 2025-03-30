@@ -20,3 +20,5 @@ Maintenant envoyez votre meilleur pokémon pour le détruire.
 Après l'avoir battu il y a une d'obtenir cette fameuse larme !
 ![larmedeghast](/screenshot/larmesdeghast/larmedeghast.png)
 
+## D'autres pokémon peuvent en dropper ?
+La réponse est oui ! Spectrum peu aussi en dropper

@@ -479,7 +479,7 @@ heroImage: '/pokedex.jpg'
         <td>0093</td>
         <td>Spectrum</td>
         <td>Haunter</td>
-        <td>Drops Larmes de ghast dans le nether</td>
+        <td><a href="/Wiki/obtenirlarmeghast/">Drops larmes de ghast dans le nether</a></td>
     </tr>
     <tr>
         <td>0094</td>
