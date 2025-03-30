@@ -4,8 +4,6 @@ description: '📜 Patch Note 1.0.2'
 pubDate: 'Mar 26 2025'
 heroImage: '/background.jpg'
 ---
-# 📜 PokéStar Academy Patch Note 1.0.2
-
 ## ⚙️ Modifications
 
 - **La view distance a été augmentée à 8 (5 -> 8)** afin de voir plus loin sans causer de lags/rollbacks.

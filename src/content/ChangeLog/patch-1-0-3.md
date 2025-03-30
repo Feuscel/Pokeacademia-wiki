@@ -4,8 +4,6 @@ description: '📜 Patch Note 1.0.3'
 pubDate: 'Mar 27 2025'
 heroImage: '/background.jpg'
 ---
-# 📜 PokéStar Academy Patch Note 1.0.3
-
 ⚠️ Pour appliquer la mise à jour, **il est nécessaire de relancer l'application PokéStar Academy**. Vous pourrez ensuite profiter des nouveautés directement en vous connectant au serveur !
 
 ## ⚙️ Modifications

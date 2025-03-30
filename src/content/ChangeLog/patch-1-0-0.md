@@ -1,7 +1,7 @@
 ---
 title: '📜 Patch Note 1.0.0'
 description: '📜 Patch Note 1.0.0'
-pubDate: 'Mar 24 2025'
+pubDate: 'Mar 23 2025'
 heroImage: '/background.jpg'
 ---
 
