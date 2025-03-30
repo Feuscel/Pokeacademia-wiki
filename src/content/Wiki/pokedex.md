@@ -5,17 +5,19 @@ pubDate: 'Mar 30 2025'
 heroImage: '/pokedex.jpg'
 ---
 <table>
-    <tr>
-        <td>Numero</td>
-        <td>Nom francais</td>
-        <td>Nom anglais</td>
-        <td>Notes</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Numero</th>
+            <th>Nom francais</th>
+            <th>Nom anglais</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
     <tr>
         <td>0001</td>
         <td>Bulbizarre</td>
         <td>Bulbasaur</td>
-        <td></td>
     </tr>
     <tr>
         <td>0002</td>
@@ -471,7 +473,7 @@ heroImage: '/pokedex.jpg'
         <td>0092</td>
         <td>Fantominus</td>
         <td>Gastly</td>
-        <td>larmes de ghast</td>
+        <td>Drops larmes de ghast dans le nether</td>
     </tr>
     <tr>
         <td>0093</td>
@@ -5138,4 +5140,5 @@ heroImage: '/pokedex.jpg'
         <td>Pechaminus</td>
         <td>Pecharunt</td>
     </tr>
+    </tbody>
 </table>
