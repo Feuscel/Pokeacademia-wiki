@@ -4051,6 +4051,7 @@ heroImage: '/pokedex.jpg'
         <td>0807</td>
         <td>Zeraora</td>
         <td>Zeraora</td>
+        <td>Drops étoile du nether 100%</td>
     </tr>
     <tr>
         <td>0808</td>
